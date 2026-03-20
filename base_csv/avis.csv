@@ -1,0 +1,2491 @@
+id_avis,id_client,id_livre,note,commentaire,dateavis
+1,155,802,3,À mettre entre toutes les mains !,2022-06-12
+2,189,1345,4,"J'ai adoré les personnages, très bien construits.",2016-03-07
+3,751,509,3,"Une belle découverte, l'auteur a beaucoup de talent.",2017-10-10
+4,250,317,5,,2020-01-06
+5,739,880,4,Impossible à lâcher ! Un vrai page-turner.,2018-10-07
+6,519,1042,5,Une œuvre marquante qui laisse une empreinte durable.,2018-04-14
+7,781,789,4,À mettre entre toutes les mains !,2020-02-19
+8,771,603,4,,2021-06-13
+9,297,550,4,,2015-10-26
+10,207,855,4,"Une belle découverte, l'auteur a beaucoup de talent.",2016-10-05
+11,746,826,4,Une œuvre marquante qui laisse une empreinte durable.,2021-10-08
+12,5,1407,3,Trop long à mon goût mais le fond est bon.,2019-12-04
+13,662,1027,3,,2017-02-22
+14,78,813,2,Très instructif et bien documenté.,2017-04-25
+15,110,991,4,,2017-09-23
+16,310,85,5,"Plutôt moyen, rien d'exceptionnel.",2017-06-26
+17,194,409,2,"Magnifique, une écriture poétique et profonde.",2024-12-12
+18,746,197,4,,2019-07-08
+19,287,1108,5,,2019-10-01
+20,139,1102,2,,2021-09-11
+21,228,1026,4,"J'ai adoré les personnages, très bien construits.",2021-11-22
+22,660,749,5,,2018-12-19
+23,283,1369,5,"Plutôt moyen, rien d'exceptionnel.",2016-01-22
+24,369,993,3,Une œuvre marquante qui laisse une empreinte durable.,2018-07-24
+25,594,173,1,Trop long à mon goût mais le fond est bon.,2015-02-20
+26,513,861,5,Trop long à mon goût mais le fond est bon.,2018-12-17
+27,62,594,4,Trop long à mon goût mais le fond est bon.,2022-04-28
+28,179,294,3,"Plutôt moyen, rien d'exceptionnel.",2022-03-02
+29,620,270,2,Passionnant du début à la fin.,2016-03-05
+30,654,1127,5,,2019-10-12
+31,657,204,5,Passionnant du début à la fin.,2015-06-26
+32,426,257,2,"Excellent livre, je le recommande vivement !",2015-11-13
+33,331,984,5,"Une belle découverte, l'auteur a beaucoup de talent.",2022-04-22
+34,19,809,2,"Plutôt moyen, rien d'exceptionnel.",2015-09-21
+35,39,1156,5,Passionnant du début à la fin.,2017-01-23
+36,433,1088,4,"Excellent livre, je le recommande vivement !",2020-12-24
+37,220,858,4,"Plutôt moyen, rien d'exceptionnel.",2024-01-29
+38,690,336,2,,2017-07-14
+39,483,402,2,"Une belle découverte, l'auteur a beaucoup de talent.",2015-12-05
+40,288,405,4,,2015-02-11
+41,618,318,1,,2024-06-25
+42,757,1362,4,"Excellent livre, je le recommande vivement !",2020-05-29
+43,8,1296,3,Histoire intéressante mais style un peu lourd.,2020-07-10
+44,293,1052,5,"Une belle découverte, l'auteur a beaucoup de talent.",2021-12-29
+45,536,1467,4,"Décevant, je m'attendais à mieux.",2015-09-16
+46,237,345,4,"J'ai adoré les personnages, très bien construits.",2018-09-14
+47,179,313,4,"Décevant, je m'attendais à mieux.",2016-07-07
+48,589,929,4,,2023-08-24
+49,336,525,1,"Magnifique, une écriture poétique et profonde.",2024-07-27
+50,693,510,4,"J'ai adoré les personnages, très bien construits.",2018-04-26
+51,502,754,3,"Plutôt moyen, rien d'exceptionnel.",2021-01-08
+52,412,638,4,"Plutôt moyen, rien d'exceptionnel.",2015-08-02
+53,59,974,5,Impossible à lâcher ! Un vrai page-turner.,2016-12-12
+54,755,553,5,Trop long à mon goût mais le fond est bon.,2021-09-18
+55,536,496,4,"Magnifique, une écriture poétique et profonde.",2022-04-14
+56,375,1328,1,Passionnant du début à la fin.,2021-02-06
+57,250,1106,4,,2024-10-21
+58,760,1024,5,Impossible à lâcher ! Un vrai page-turner.,2021-07-08
+59,56,1499,3,"Décevant, je m'attendais à mieux.",2016-01-25
+60,646,160,5,Impossible à lâcher ! Un vrai page-turner.,2022-12-04
+61,513,5,3,"Très bien écrit, une lecture agréable.",2024-01-16
+62,776,768,4,Histoire intéressante mais style un peu lourd.,2015-03-17
+63,119,100,2,"Très bien écrit, une lecture agréable.",2024-12-10
+64,633,1387,3,"Un chef-d'œuvre absolu, à lire absolument.",2018-08-31
+65,191,15,5,"Décevant, je m'attendais à mieux.",2024-01-29
+66,393,112,4,Trop long à mon goût mais le fond est bon.,2023-05-03
+67,283,268,5,"J'ai adoré les personnages, très bien construits.",2017-07-17
+68,237,240,4,"J'ai adoré les personnages, très bien construits.",2021-03-01
+69,160,390,2,,2015-12-18
+70,708,920,2,Histoire intéressante mais style un peu lourd.,2018-07-20
+71,477,513,1,Impossible à lâcher ! Un vrai page-turner.,2022-06-20
+72,653,1173,4,Impossible à lâcher ! Un vrai page-turner.,2022-12-17
+73,12,12,5,Passionnant du début à la fin.,2019-08-19
+74,790,904,5,Passionnant du début à la fin.,2016-10-06
+75,428,463,4,"Une belle découverte, l'auteur a beaucoup de talent.",2023-12-20
+76,443,489,4,"Un chef-d'œuvre absolu, à lire absolument.",2022-04-25
+77,29,308,5,"Plutôt moyen, rien d'exceptionnel.",2023-10-14
+78,776,771,4,,2019-06-14
+79,425,669,5,,2018-04-22
+80,596,344,5,"Une belle découverte, l'auteur a beaucoup de talent.",2019-12-09
+81,455,589,2,"Excellent livre, je le recommande vivement !",2019-02-13
+82,483,176,4,,2016-06-10
+83,731,1016,5,Impossible à lâcher ! Un vrai page-turner.,2024-07-01
+84,506,1422,5,"Décevant, je m'attendais à mieux.",2019-06-01
+85,125,647,4,"Plutôt moyen, rien d'exceptionnel.",2022-01-01
+86,721,1074,4,Trop long à mon goût mais le fond est bon.,2024-02-23
+87,747,1135,5,,2016-03-09
+88,325,233,2,À mettre entre toutes les mains !,2017-12-13
+89,119,322,3,Histoire intéressante mais style un peu lourd.,2019-02-01
+90,313,853,4,,2022-07-18
+91,209,909,2,"J'ai adoré les personnages, très bien construits.",2024-06-09
+92,732,541,2,"Excellent livre, je le recommande vivement !",2022-08-27
+93,420,824,4,Passionnant du début à la fin.,2022-05-05
+94,55,1112,4,"Excellent livre, je le recommande vivement !",2017-02-25
+95,261,16,5,Très instructif et bien documenté.,2016-01-07
+96,505,826,5,,2015-04-29
+97,397,214,3,"Très bien écrit, une lecture agréable.",2016-02-29
+98,689,258,4,Une œuvre marquante qui laisse une empreinte durable.,2016-01-06
+99,681,1070,4,"Une belle découverte, l'auteur a beaucoup de talent.",2016-10-26
+100,31,501,5,Trop long à mon goût mais le fond est bon.,2019-01-04
+101,433,532,1,,2015-09-19
+102,682,1332,5,Histoire intéressante mais style un peu lourd.,2024-08-06
+103,133,817,5,Une œuvre marquante qui laisse une empreinte durable.,2019-11-28
+104,567,305,5,,2019-09-22
+105,287,422,3,Histoire intéressante mais style un peu lourd.,2022-05-30
+106,725,143,5,"Une belle découverte, l'auteur a beaucoup de talent.",2018-07-22
+107,299,1350,4,Histoire intéressante mais style un peu lourd.,2023-06-11
+108,541,299,2,"Excellent livre, je le recommande vivement !",2022-03-23
+109,436,602,2,,2015-11-21
+110,433,1047,3,,2020-10-24
+111,612,713,2,Impossible à lâcher ! Un vrai page-turner.,2016-09-01
+112,244,572,5,Passionnant du début à la fin.,2016-08-24
+113,67,1015,3,"Un chef-d'œuvre absolu, à lire absolument.",2023-07-16
+114,240,202,5,Histoire intéressante mais style un peu lourd.,2021-07-05
+115,323,20,4,"Magnifique, une écriture poétique et profonde.",2024-03-18
+116,295,212,2,"Une belle découverte, l'auteur a beaucoup de talent.",2022-04-29
+117,107,459,4,Trop long à mon goût mais le fond est bon.,2023-05-01
+118,248,1296,2,"Une belle découverte, l'auteur a beaucoup de talent.",2021-02-03
+119,613,1401,1,Trop long à mon goût mais le fond est bon.,2021-06-19
+120,701,658,4,"Très bien écrit, une lecture agréable.",2021-04-02
+121,785,1080,3,,2016-03-12
+122,713,1380,3,Histoire intéressante mais style un peu lourd.,2022-03-01
+123,291,1001,3,"Un chef-d'œuvre absolu, à lire absolument.",2017-12-31
+124,719,457,4,"Magnifique, une écriture poétique et profonde.",2024-08-09
+125,624,961,3,"Une belle découverte, l'auteur a beaucoup de talent.",2015-05-22
+126,97,1362,4,"Décevant, je m'attendais à mieux.",2024-05-17
+127,372,495,2,À mettre entre toutes les mains !,2020-06-04
+128,328,100,3,,2021-04-27
+129,220,971,1,"Très bien écrit, une lecture agréable.",2020-10-24
+130,336,1273,4,"Une belle découverte, l'auteur a beaucoup de talent.",2018-01-05
+131,660,37,5,Impossible à lâcher ! Un vrai page-turner.,2015-03-29
+132,336,1484,5,"Excellent livre, je le recommande vivement !",2021-09-19
+133,359,990,5,,2015-10-04
+134,544,547,4,,2019-06-20
+135,518,102,4,"J'ai adoré les personnages, très bien construits.",2021-10-19
+136,621,1301,5,Trop long à mon goût mais le fond est bon.,2022-02-15
+137,98,186,4,"Excellent livre, je le recommande vivement !",2024-02-10
+138,707,1477,5,Une œuvre marquante qui laisse une empreinte durable.,2023-11-07
+139,391,364,5,"J'ai adoré les personnages, très bien construits.",2021-11-09
+140,27,1046,5,À mettre entre toutes les mains !,2022-05-11
+141,56,807,4,Très instructif et bien documenté.,2016-05-17
+142,154,1368,5,Impossible à lâcher ! Un vrai page-turner.,2018-09-22
+143,618,286,5,,2024-04-06
+144,165,430,3,,2018-09-10
+145,400,996,4,Une œuvre marquante qui laisse une empreinte durable.,2022-09-27
+146,726,439,4,Très instructif et bien documenté.,2019-10-23
+147,127,870,3,"Très bien écrit, une lecture agréable.",2017-12-05
+148,95,389,3,,2022-04-27
+149,726,1013,3,"Magnifique, une écriture poétique et profonde.",2020-07-07
+150,239,1433,4,"J'ai adoré les personnages, très bien construits.",2023-10-18
+151,104,1385,5,"Excellent livre, je le recommande vivement !",2021-10-31
+152,259,380,1,"J'ai adoré les personnages, très bien construits.",2020-05-24
+153,268,230,4,"Très bien écrit, une lecture agréable.",2021-12-04
+154,726,1263,3,Une œuvre marquante qui laisse une empreinte durable.,2022-06-06
+155,338,1161,2,Très instructif et bien documenté.,2018-09-13
+156,232,1313,5,,2023-08-04
+157,589,746,4,"Magnifique, une écriture poétique et profonde.",2021-02-20
+158,504,1013,4,Impossible à lâcher ! Un vrai page-turner.,2017-07-05
+159,405,605,4,,2017-05-13
+160,472,1199,3,,2020-11-02
+161,739,1284,2,Très instructif et bien documenté.,2015-10-20
+162,131,1194,2,"Très bien écrit, une lecture agréable.",2016-02-22
+163,676,1304,2,"Excellent livre, je le recommande vivement !",2016-03-13
+164,31,974,3,Très instructif et bien documenté.,2022-08-02
+165,46,365,5,Impossible à lâcher ! Un vrai page-turner.,2018-02-16
+166,538,591,5,"Décevant, je m'attendais à mieux.",2017-05-14
+167,143,1494,2,"Décevant, je m'attendais à mieux.",2015-05-17
+168,572,992,5,Passionnant du début à la fin.,2024-12-10
+169,721,972,2,Très instructif et bien documenté.,2023-01-26
+170,590,624,3,"Très bien écrit, une lecture agréable.",2017-10-15
+171,492,25,5,"Plutôt moyen, rien d'exceptionnel.",2024-11-05
+172,451,1064,3,"Très bien écrit, une lecture agréable.",2017-07-11
+173,115,869,5,"Décevant, je m'attendais à mieux.",2016-07-29
+174,385,1331,2,,2024-01-30
+175,611,429,4,Impossible à lâcher ! Un vrai page-turner.,2017-08-07
+176,77,920,5,À mettre entre toutes les mains !,2021-09-17
+177,558,1146,5,"Plutôt moyen, rien d'exceptionnel.",2015-01-13
+178,203,910,4,"Une belle découverte, l'auteur a beaucoup de talent.",2024-12-15
+179,759,474,4,,2023-11-23
+180,214,913,2,Histoire intéressante mais style un peu lourd.,2019-06-09
+181,174,628,5,"Excellent livre, je le recommande vivement !",2019-12-06
+182,500,32,1,"J'ai adoré les personnages, très bien construits.",2018-12-29
+183,330,1332,5,Une œuvre marquante qui laisse une empreinte durable.,2017-04-17
+184,271,1131,5,Très instructif et bien documenté.,2020-09-24
+185,29,1368,4,,2022-04-24
+186,764,476,4,Très instructif et bien documenté.,2016-07-12
+187,747,1096,3,"Plutôt moyen, rien d'exceptionnel.",2023-07-26
+188,170,698,4,"Un chef-d'œuvre absolu, à lire absolument.",2020-03-17
+189,72,761,4,Passionnant du début à la fin.,2024-11-30
+190,241,444,5,"Excellent livre, je le recommande vivement !",2019-04-11
+191,421,853,4,"Magnifique, une écriture poétique et profonde.",2024-12-25
+192,679,1430,4,"Un chef-d'œuvre absolu, à lire absolument.",2016-01-07
+193,103,1174,5,,2019-10-31
+194,714,192,5,Impossible à lâcher ! Un vrai page-turner.,2018-09-23
+195,346,452,1,"Un chef-d'œuvre absolu, à lire absolument.",2023-02-23
+196,117,390,3,,2020-06-20
+197,505,1276,2,Très instructif et bien documenté.,2017-05-30
+198,498,1172,4,Trop long à mon goût mais le fond est bon.,2016-02-04
+199,552,1190,2,,2015-03-01
+200,294,760,4,,2016-08-12
+201,99,802,3,À mettre entre toutes les mains !,2018-05-07
+202,131,612,4,"Une belle découverte, l'auteur a beaucoup de talent.",2017-09-25
+203,151,738,5,"Excellent livre, je le recommande vivement !",2023-08-11
+204,435,673,5,Impossible à lâcher ! Un vrai page-turner.,2015-04-09
+205,344,1468,5,"J'ai adoré les personnages, très bien construits.",2019-12-12
+206,640,1302,2,,2020-01-19
+207,163,1492,1,"Plutôt moyen, rien d'exceptionnel.",2024-02-11
+208,678,1240,1,À mettre entre toutes les mains !,2022-11-14
+209,329,23,5,Impossible à lâcher ! Un vrai page-turner.,2021-10-11
+210,772,849,4,"J'ai adoré les personnages, très bien construits.",2023-05-20
+211,270,569,3,À mettre entre toutes les mains !,2020-01-04
+212,762,1428,5,Une œuvre marquante qui laisse une empreinte durable.,2023-03-06
+213,458,540,3,,2018-07-12
+214,267,114,5,"J'ai adoré les personnages, très bien construits.",2015-12-14
+215,379,1415,4,Très instructif et bien documenté.,2018-02-23
+216,10,1156,5,,2023-03-07
+217,404,1323,4,À mettre entre toutes les mains !,2021-09-10
+218,696,498,1,"Très bien écrit, une lecture agréable.",2017-07-06
+219,264,1286,2,Passionnant du début à la fin.,2023-04-10
+220,645,1104,2,"Excellent livre, je le recommande vivement !",2021-05-27
+221,74,522,5,Trop long à mon goût mais le fond est bon.,2019-01-11
+222,317,1064,3,"Excellent livre, je le recommande vivement !",2015-06-14
+223,301,77,1,Histoire intéressante mais style un peu lourd.,2024-07-10
+224,368,516,4,Très instructif et bien documenté.,2017-05-14
+225,303,1499,5,Passionnant du début à la fin.,2016-11-28
+226,370,833,1,"Plutôt moyen, rien d'exceptionnel.",2021-07-07
+227,620,291,5,"Décevant, je m'attendais à mieux.",2018-07-19
+228,455,865,2,"Plutôt moyen, rien d'exceptionnel.",2015-06-11
+229,714,964,4,"Très bien écrit, une lecture agréable.",2020-09-08
+230,115,350,4,,2024-02-18
+231,394,723,3,"Excellent livre, je le recommande vivement !",2021-03-30
+232,692,241,4,"Excellent livre, je le recommande vivement !",2018-06-16
+233,247,223,3,,2024-09-25
+234,73,1019,3,"Magnifique, une écriture poétique et profonde.",2018-01-29
+235,493,992,5,"Magnifique, une écriture poétique et profonde.",2019-05-06
+236,194,208,4,"J'ai adoré les personnages, très bien construits.",2017-07-25
+237,796,321,5,,2020-02-22
+238,412,967,2,Trop long à mon goût mais le fond est bon.,2016-02-13
+239,424,1045,3,Trop long à mon goût mais le fond est bon.,2021-08-28
+240,430,580,4,"Plutôt moyen, rien d'exceptionnel.",2021-10-22
+241,778,369,3,"Magnifique, une écriture poétique et profonde.",2021-01-30
+242,234,380,4,Une œuvre marquante qui laisse une empreinte durable.,2015-12-27
+243,248,910,4,À mettre entre toutes les mains !,2022-08-28
+244,698,572,5,Impossible à lâcher ! Un vrai page-turner.,2024-02-29
+245,728,322,5,À mettre entre toutes les mains !,2018-08-22
+246,589,190,5,Une œuvre marquante qui laisse une empreinte durable.,2018-05-11
+247,543,1179,5,,2015-01-21
+248,589,1353,3,Très instructif et bien documenté.,2024-09-08
+249,558,523,5,Très instructif et bien documenté.,2021-07-03
+250,159,1320,5,Une œuvre marquante qui laisse une empreinte durable.,2023-12-24
+251,516,1013,4,"Une belle découverte, l'auteur a beaucoup de talent.",2023-06-07
+252,250,980,4,Très instructif et bien documenté.,2020-05-09
+253,429,522,5,"Un chef-d'œuvre absolu, à lire absolument.",2020-01-29
+254,544,93,3,"Décevant, je m'attendais à mieux.",2018-12-07
+255,115,1153,2,"Très bien écrit, une lecture agréable.",2019-10-01
+256,130,1103,4,Trop long à mon goût mais le fond est bon.,2024-01-18
+257,469,886,4,Très instructif et bien documenté.,2015-08-23
+258,709,1251,2,,2017-02-16
+259,374,336,4,Passionnant du début à la fin.,2021-06-20
+260,674,1329,4,,2019-11-18
+261,594,1017,5,"Plutôt moyen, rien d'exceptionnel.",2023-11-25
+262,364,862,5,Impossible à lâcher ! Un vrai page-turner.,2016-04-23
+263,27,1287,4,À mettre entre toutes les mains !,2023-10-26
+264,218,1211,4,Trop long à mon goût mais le fond est bon.,2020-06-09
+265,48,1355,3,"Une belle découverte, l'auteur a beaucoup de talent.",2020-05-09
+266,493,228,3,"Une belle découverte, l'auteur a beaucoup de talent.",2024-06-26
+267,480,114,2,À mettre entre toutes les mains !,2015-03-16
+268,714,176,4,Histoire intéressante mais style un peu lourd.,2021-12-05
+269,289,74,4,À mettre entre toutes les mains !,2021-12-26
+270,552,657,4,Passionnant du début à la fin.,2019-05-15
+271,646,444,4,Histoire intéressante mais style un peu lourd.,2023-05-15
+272,563,552,4,À mettre entre toutes les mains !,2022-07-03
+273,671,970,4,Très instructif et bien documenté.,2022-07-20
+274,420,432,3,Histoire intéressante mais style un peu lourd.,2017-01-22
+275,4,1452,5,Impossible à lâcher ! Un vrai page-turner.,2018-10-30
+276,221,21,4,,2023-03-25
+277,482,268,4,Très instructif et bien documenté.,2016-08-08
+278,487,797,4,"J'ai adoré les personnages, très bien construits.",2021-03-28
+279,510,124,5,Histoire intéressante mais style un peu lourd.,2024-06-08
+280,162,1322,5,"Excellent livre, je le recommande vivement !",2017-08-19
+281,420,868,5,Très instructif et bien documenté.,2022-02-18
+282,192,952,4,Histoire intéressante mais style un peu lourd.,2021-01-24
+283,177,1314,5,Une œuvre marquante qui laisse une empreinte durable.,2024-01-07
+284,293,403,4,,2020-05-28
+285,618,816,5,"Un chef-d'œuvre absolu, à lire absolument.",2020-05-12
+286,508,957,4,Histoire intéressante mais style un peu lourd.,2020-07-04
+287,109,861,5,"Très bien écrit, une lecture agréable.",2021-07-29
+288,115,798,3,Impossible à lâcher ! Un vrai page-turner.,2018-09-28
+289,23,1407,4,,2021-10-23
+290,181,706,1,"Très bien écrit, une lecture agréable.",2018-11-29
+291,438,1256,4,,2022-01-03
+292,522,291,3,"Excellent livre, je le recommande vivement !",2015-03-28
+293,537,130,3,À mettre entre toutes les mains !,2018-06-15
+294,755,1187,1,Très instructif et bien documenté.,2020-05-21
+295,307,475,3,Impossible à lâcher ! Un vrai page-turner.,2024-08-25
+296,734,360,5,Histoire intéressante mais style un peu lourd.,2016-02-05
+297,566,8,2,Impossible à lâcher ! Un vrai page-turner.,2022-03-01
+298,361,1251,4,,2022-10-14
+299,179,1173,5,Histoire intéressante mais style un peu lourd.,2015-06-11
+300,254,140,5,"Plutôt moyen, rien d'exceptionnel.",2020-03-07
+301,614,194,3,Impossible à lâcher ! Un vrai page-turner.,2018-11-30
+302,99,169,4,,2017-02-11
+303,237,1153,5,"Excellent livre, je le recommande vivement !",2019-02-14
+304,618,789,5,"Magnifique, une écriture poétique et profonde.",2021-07-02
+305,260,316,3,Histoire intéressante mais style un peu lourd.,2024-04-10
+306,194,1143,4,Passionnant du début à la fin.,2024-11-15
+307,693,588,5,Histoire intéressante mais style un peu lourd.,2019-04-26
+308,249,971,5,"Magnifique, une écriture poétique et profonde.",2021-03-02
+309,646,665,2,Une œuvre marquante qui laisse une empreinte durable.,2023-03-14
+310,184,919,4,,2023-11-22
+311,82,930,4,Trop long à mon goût mais le fond est bon.,2016-10-10
+312,367,96,5,"Un chef-d'œuvre absolu, à lire absolument.",2016-10-08
+313,435,909,4,,2024-08-31
+314,671,1298,3,"Plutôt moyen, rien d'exceptionnel.",2017-10-04
+315,708,955,2,À mettre entre toutes les mains !,2020-03-04
+316,781,1449,4,À mettre entre toutes les mains !,2020-09-20
+317,682,1079,4,Impossible à lâcher ! Un vrai page-turner.,2015-11-21
+318,176,1079,5,"Plutôt moyen, rien d'exceptionnel.",2020-06-20
+319,492,527,4,"J'ai adoré les personnages, très bien construits.",2021-11-30
+320,86,107,3,À mettre entre toutes les mains !,2024-10-11
+321,170,1223,4,Très instructif et bien documenté.,2019-04-10
+322,322,375,5,À mettre entre toutes les mains !,2018-07-21
+323,498,452,2,"Décevant, je m'attendais à mieux.",2015-03-16
+324,293,42,3,"Excellent livre, je le recommande vivement !",2020-02-28
+325,105,1161,2,Très instructif et bien documenté.,2018-02-20
+326,256,1410,3,,2017-01-07
+327,433,747,4,Histoire intéressante mais style un peu lourd.,2021-12-15
+328,406,455,5,"Très bien écrit, une lecture agréable.",2021-07-13
+329,215,758,3,,2015-11-22
+330,32,234,5,Passionnant du début à la fin.,2019-06-09
+331,454,462,5,,2017-06-15
+332,489,118,4,À mettre entre toutes les mains !,2015-09-26
+333,681,1420,4,"Très bien écrit, une lecture agréable.",2020-01-22
+334,369,850,5,"Un chef-d'œuvre absolu, à lire absolument.",2015-01-28
+335,190,213,5,Une œuvre marquante qui laisse une empreinte durable.,2019-12-29
+336,219,929,3,"Une belle découverte, l'auteur a beaucoup de talent.",2024-02-06
+337,649,1350,1,Une œuvre marquante qui laisse une empreinte durable.,2015-01-24
+338,101,1353,5,"Décevant, je m'attendais à mieux.",2019-08-22
+339,161,158,5,Impossible à lâcher ! Un vrai page-turner.,2024-07-25
+340,162,327,5,Histoire intéressante mais style un peu lourd.,2015-03-05
+341,1,852,2,Passionnant du début à la fin.,2018-01-10
+342,710,1216,4,"Décevant, je m'attendais à mieux.",2022-04-17
+343,321,175,5,Passionnant du début à la fin.,2021-01-31
+344,740,85,5,"Très bien écrit, une lecture agréable.",2015-09-20
+345,571,1457,5,"Excellent livre, je le recommande vivement !",2018-05-25
+346,348,108,2,"Un chef-d'œuvre absolu, à lire absolument.",2015-10-14
+347,725,231,4,"J'ai adoré les personnages, très bien construits.",2024-02-11
+348,643,833,2,"Une belle découverte, l'auteur a beaucoup de talent.",2019-07-22
+349,615,391,5,Histoire intéressante mais style un peu lourd.,2023-12-08
+350,775,1013,5,Trop long à mon goût mais le fond est bon.,2015-07-23
+351,336,526,5,Passionnant du début à la fin.,2019-03-21
+352,154,649,4,,2018-01-24
+353,174,368,3,Très instructif et bien documenté.,2015-08-22
+354,397,1210,5,À mettre entre toutes les mains !,2020-08-10
+355,425,225,5,Passionnant du début à la fin.,2024-07-24
+356,265,217,5,,2023-09-19
+357,511,224,5,"Plutôt moyen, rien d'exceptionnel.",2024-04-11
+358,100,784,2,"Excellent livre, je le recommande vivement !",2015-11-06
+359,582,1023,4,Passionnant du début à la fin.,2020-06-30
+360,44,1141,3,"Plutôt moyen, rien d'exceptionnel.",2019-04-12
+361,334,96,3,"Très bien écrit, une lecture agréable.",2018-05-09
+362,286,282,4,Très instructif et bien documenté.,2016-08-16
+363,767,829,4,"Plutôt moyen, rien d'exceptionnel.",2021-01-15
+364,63,1434,3,,2018-09-07
+365,127,466,4,Trop long à mon goût mais le fond est bon.,2023-08-24
+366,182,842,4,"Une belle découverte, l'auteur a beaucoup de talent.",2015-06-26
+367,301,293,3,Impossible à lâcher ! Un vrai page-turner.,2022-06-18
+368,518,239,3,"J'ai adoré les personnages, très bien construits.",2015-01-23
+369,456,783,4,,2022-04-30
+370,11,91,4,,2017-12-20
+371,226,873,4,"Magnifique, une écriture poétique et profonde.",2017-07-13
+372,611,1333,5,À mettre entre toutes les mains !,2016-03-05
+373,700,98,3,,2020-02-24
+374,86,661,1,Trop long à mon goût mais le fond est bon.,2015-02-26
+375,83,1409,5,Très instructif et bien documenté.,2016-03-30
+376,728,1100,5,,2020-01-13
+377,485,1134,3,Passionnant du début à la fin.,2019-01-25
+378,468,895,2,"J'ai adoré les personnages, très bien construits.",2020-06-02
+379,494,94,4,À mettre entre toutes les mains !,2016-01-14
+380,619,1488,3,"Plutôt moyen, rien d'exceptionnel.",2023-07-09
+381,239,614,4,,2017-04-20
+382,11,1301,4,,2019-01-24
+383,163,927,5,Impossible à lâcher ! Un vrai page-turner.,2020-06-10
+384,548,455,3,"Une belle découverte, l'auteur a beaucoup de talent.",2018-02-22
+385,705,112,5,"Très bien écrit, une lecture agréable.",2016-11-29
+386,704,93,3,Histoire intéressante mais style un peu lourd.,2024-01-24
+387,294,1410,4,Trop long à mon goût mais le fond est bon.,2021-08-17
+388,753,1093,5,"Très bien écrit, une lecture agréable.",2016-12-23
+389,688,339,3,"Décevant, je m'attendais à mieux.",2015-09-07
+390,545,443,4,Une œuvre marquante qui laisse une empreinte durable.,2021-04-10
+391,553,79,2,"Magnifique, une écriture poétique et profonde.",2015-06-07
+392,72,827,5,,2015-07-13
+393,753,1339,4,"Excellent livre, je le recommande vivement !",2017-07-16
+394,381,691,4,Impossible à lâcher ! Un vrai page-turner.,2016-03-08
+395,326,253,4,Très instructif et bien documenté.,2015-11-11
+396,447,1445,4,Trop long à mon goût mais le fond est bon.,2024-10-27
+397,356,1110,5,À mettre entre toutes les mains !,2017-02-28
+398,396,112,2,Une œuvre marquante qui laisse une empreinte durable.,2019-03-19
+399,526,1000,3,,2015-09-06
+400,634,304,3,Passionnant du début à la fin.,2015-07-08
+401,563,41,4,Impossible à lâcher ! Un vrai page-turner.,2019-12-04
+402,573,949,5,"J'ai adoré les personnages, très bien construits.",2022-04-14
+403,573,1020,5,"Plutôt moyen, rien d'exceptionnel.",2017-03-30
+404,652,589,5,"Excellent livre, je le recommande vivement !",2022-03-05
+405,5,896,4,"Plutôt moyen, rien d'exceptionnel.",2018-03-22
+406,247,1458,5,"Un chef-d'œuvre absolu, à lire absolument.",2015-04-22
+407,775,12,3,,2022-11-13
+408,321,1332,5,,2020-12-25
+409,624,1427,5,"J'ai adoré les personnages, très bien construits.",2015-06-06
+410,394,566,4,"Un chef-d'œuvre absolu, à lire absolument.",2020-04-10
+411,382,1278,5,"Une belle découverte, l'auteur a beaucoup de talent.",2024-11-28
+412,626,105,4,À mettre entre toutes les mains !,2021-03-21
+413,249,119,3,,2020-06-24
+414,671,1085,4,,2020-02-09
+415,436,539,4,"Excellent livre, je le recommande vivement !",2022-09-09
+416,787,98,3,"Excellent livre, je le recommande vivement !",2024-07-31
+417,122,1277,4,"J'ai adoré les personnages, très bien construits.",2020-07-03
+418,337,612,4,"Plutôt moyen, rien d'exceptionnel.",2023-09-09
+419,1,1110,3,"Excellent livre, je le recommande vivement !",2019-04-17
+420,164,1046,3,"Excellent livre, je le recommande vivement !",2019-12-26
+421,168,706,3,,2019-02-26
+422,711,287,5,Passionnant du début à la fin.,2024-06-11
+423,379,115,2,Histoire intéressante mais style un peu lourd.,2020-04-01
+424,83,189,5,"Une belle découverte, l'auteur a beaucoup de talent.",2022-07-17
+425,780,708,1,"Un chef-d'œuvre absolu, à lire absolument.",2024-09-14
+426,638,1417,2,Histoire intéressante mais style un peu lourd.,2015-12-26
+427,526,51,4,,2018-03-31
+428,105,261,1,Une œuvre marquante qui laisse une empreinte durable.,2015-01-14
+429,505,529,4,,2018-01-30
+430,753,766,2,Impossible à lâcher ! Un vrai page-turner.,2024-05-24
+431,218,443,5,,2019-07-26
+432,717,1280,2,"Plutôt moyen, rien d'exceptionnel.",2021-05-30
+433,598,544,4,Une œuvre marquante qui laisse une empreinte durable.,2021-11-10
+434,208,87,4,,2019-02-23
+435,183,418,4,"Excellent livre, je le recommande vivement !",2019-02-12
+436,423,407,4,,2015-11-28
+437,153,618,5,"Un chef-d'œuvre absolu, à lire absolument.",2020-05-08
+438,211,1249,5,"Décevant, je m'attendais à mieux.",2022-03-27
+439,321,1097,5,,2017-06-27
+440,441,798,4,Trop long à mon goût mais le fond est bon.,2018-05-03
+441,213,876,3,"Très bien écrit, une lecture agréable.",2022-05-18
+442,314,646,4,Très instructif et bien documenté.,2018-02-20
+443,382,862,4,,2015-05-10
+444,773,1113,4,"J'ai adoré les personnages, très bien construits.",2018-04-17
+445,391,1437,3,"Très bien écrit, une lecture agréable.",2020-12-27
+446,459,1265,4,Trop long à mon goût mais le fond est bon.,2023-10-05
+447,234,492,5,"Décevant, je m'attendais à mieux.",2017-03-23
+448,9,576,3,"Un chef-d'œuvre absolu, à lire absolument.",2024-02-12
+449,228,1417,4,"Un chef-d'œuvre absolu, à lire absolument.",2016-02-29
+450,678,1168,4,Passionnant du début à la fin.,2015-04-21
+451,626,1488,5,,2015-03-08
+452,265,12,1,Très instructif et bien documenté.,2024-05-13
+453,560,892,5,Histoire intéressante mais style un peu lourd.,2020-03-29
+454,42,1024,4,À mettre entre toutes les mains !,2016-10-18
+455,476,645,4,Trop long à mon goût mais le fond est bon.,2019-10-14
+456,208,847,4,"Une belle découverte, l'auteur a beaucoup de talent.",2017-03-03
+457,543,119,5,"Décevant, je m'attendais à mieux.",2017-04-04
+458,195,89,4,,2021-10-29
+459,595,1111,3,"Excellent livre, je le recommande vivement !",2022-01-28
+460,704,956,4,"J'ai adoré les personnages, très bien construits.",2019-06-11
+461,142,214,1,"Magnifique, une écriture poétique et profonde.",2024-10-29
+462,672,848,5,"Plutôt moyen, rien d'exceptionnel.",2022-09-09
+463,179,1036,4,,2019-10-02
+464,558,1176,4,,2023-09-10
+465,409,1033,4,"J'ai adoré les personnages, très bien construits.",2016-10-15
+466,499,1205,1,"Décevant, je m'attendais à mieux.",2019-02-22
+467,176,1115,4,"Plutôt moyen, rien d'exceptionnel.",2015-04-06
+468,433,1119,5,Impossible à lâcher ! Un vrai page-turner.,2016-07-03
+469,161,1293,3,Impossible à lâcher ! Un vrai page-turner.,2023-10-26
+470,468,1239,4,"Excellent livre, je le recommande vivement !",2021-04-02
+471,64,1088,3,"Excellent livre, je le recommande vivement !",2021-12-05
+472,560,709,5,"J'ai adoré les personnages, très bien construits.",2020-12-13
+473,467,1129,4,Très instructif et bien documenté.,2018-01-17
+474,547,506,3,Très instructif et bien documenté.,2018-07-27
+475,553,773,5,À mettre entre toutes les mains !,2022-02-11
+476,139,793,2,,2015-10-15
+477,687,1033,4,Trop long à mon goût mais le fond est bon.,2023-05-21
+478,745,850,3,"Magnifique, une écriture poétique et profonde.",2021-10-17
+479,592,976,4,"Magnifique, une écriture poétique et profonde.",2015-04-10
+480,544,1022,5,,2022-11-18
+481,217,912,4,"Magnifique, une écriture poétique et profonde.",2023-09-14
+482,343,1446,5,"Très bien écrit, une lecture agréable.",2016-06-03
+483,429,1078,4,,2015-11-25
+484,342,656,4,"Très bien écrit, une lecture agréable.",2017-08-20
+485,647,901,3,,2024-03-06
+486,172,245,5,Trop long à mon goût mais le fond est bon.,2016-07-17
+487,277,985,4,À mettre entre toutes les mains !,2017-10-29
+488,253,403,5,"Plutôt moyen, rien d'exceptionnel.",2016-10-13
+489,461,463,5,,2022-04-13
+490,632,979,4,,2020-12-02
+491,317,29,5,Histoire intéressante mais style un peu lourd.,2023-01-07
+492,411,519,5,Passionnant du début à la fin.,2019-12-17
+493,460,603,4,"Très bien écrit, une lecture agréable.",2021-09-23
+494,630,1430,4,Une œuvre marquante qui laisse une empreinte durable.,2019-10-17
+495,352,1293,2,"Magnifique, une écriture poétique et profonde.",2024-07-30
+496,308,307,3,Trop long à mon goût mais le fond est bon.,2019-07-05
+497,466,358,4,"Excellent livre, je le recommande vivement !",2020-03-12
+498,166,278,5,Impossible à lâcher ! Un vrai page-turner.,2018-01-16
+499,45,888,4,,2023-09-04
+500,267,214,3,,2023-01-16
+501,239,1141,4,"Un chef-d'œuvre absolu, à lire absolument.",2017-08-27
+502,631,277,5,"Magnifique, une écriture poétique et profonde.",2023-06-02
+503,621,1075,4,,2022-04-03
+504,259,867,4,"Décevant, je m'attendais à mieux.",2021-04-25
+505,423,883,5,,2019-01-16
+506,412,764,4,"Excellent livre, je le recommande vivement !",2021-04-10
+507,320,412,4,À mettre entre toutes les mains !,2018-06-04
+508,791,1188,3,,2017-08-07
+509,642,749,1,"Excellent livre, je le recommande vivement !",2023-03-09
+510,80,305,5,Histoire intéressante mais style un peu lourd.,2024-08-04
+511,400,1304,5,Trop long à mon goût mais le fond est bon.,2015-11-06
+512,292,1239,5,Une œuvre marquante qui laisse une empreinte durable.,2015-12-09
+513,7,97,4,Passionnant du début à la fin.,2024-05-11
+514,682,1215,5,Histoire intéressante mais style un peu lourd.,2023-01-29
+515,255,80,2,"Plutôt moyen, rien d'exceptionnel.",2024-09-30
+516,276,820,2,"Une belle découverte, l'auteur a beaucoup de talent.",2023-02-26
+517,306,1333,4,"Excellent livre, je le recommande vivement !",2022-04-02
+518,323,371,5,,2022-06-17
+519,691,1127,4,"Une belle découverte, l'auteur a beaucoup de talent.",2022-09-12
+520,203,116,4,"Décevant, je m'attendais à mieux.",2016-03-22
+521,422,813,4,Trop long à mon goût mais le fond est bon.,2021-05-21
+522,109,94,5,,2020-12-19
+523,696,1368,4,Une œuvre marquante qui laisse une empreinte durable.,2016-04-28
+524,507,191,3,"Excellent livre, je le recommande vivement !",2022-03-03
+525,151,733,1,,2018-01-09
+526,181,303,5,"J'ai adoré les personnages, très bien construits.",2023-11-06
+527,264,503,3,Histoire intéressante mais style un peu lourd.,2023-07-22
+528,688,848,3,"Magnifique, une écriture poétique et profonde.",2022-09-10
+529,365,125,5,Histoire intéressante mais style un peu lourd.,2020-08-06
+530,503,1377,5,,2019-08-12
+531,16,322,4,"J'ai adoré les personnages, très bien construits.",2018-12-14
+532,197,1469,5,"Plutôt moyen, rien d'exceptionnel.",2021-01-10
+533,739,1021,3,"J'ai adoré les personnages, très bien construits.",2021-04-16
+534,506,649,4,"Excellent livre, je le recommande vivement !",2017-12-02
+535,742,143,4,"Décevant, je m'attendais à mieux.",2023-11-08
+536,543,338,5,,2024-09-01
+537,102,818,5,"Un chef-d'œuvre absolu, à lire absolument.",2015-03-25
+538,675,505,4,Impossible à lâcher ! Un vrai page-turner.,2020-07-20
+539,469,1444,3,Histoire intéressante mais style un peu lourd.,2017-07-19
+540,234,1470,5,Histoire intéressante mais style un peu lourd.,2018-11-14
+541,696,936,4,"J'ai adoré les personnages, très bien construits.",2020-08-05
+542,710,1318,5,"Excellent livre, je le recommande vivement !",2018-04-23
+543,484,931,2,Très instructif et bien documenté.,2019-05-31
+544,737,562,5,Très instructif et bien documenté.,2024-09-24
+545,757,1045,3,"Très bien écrit, une lecture agréable.",2021-04-24
+546,11,840,4,"Magnifique, une écriture poétique et profonde.",2024-10-04
+547,77,45,1,"Plutôt moyen, rien d'exceptionnel.",2018-04-09
+548,299,356,4,,2021-05-23
+549,254,136,4,"Très bien écrit, une lecture agréable.",2016-06-11
+550,515,260,4,Impossible à lâcher ! Un vrai page-turner.,2020-04-08
+551,794,104,5,"Décevant, je m'attendais à mieux.",2018-03-10
+552,529,1213,2,Passionnant du début à la fin.,2020-04-07
+553,578,1174,4,Une œuvre marquante qui laisse une empreinte durable.,2024-04-18
+554,542,535,3,Passionnant du début à la fin.,2019-04-01
+555,359,240,4,"Un chef-d'œuvre absolu, à lire absolument.",2018-03-20
+556,210,544,3,"Une belle découverte, l'auteur a beaucoup de talent.",2022-10-04
+557,28,1053,5,"Magnifique, une écriture poétique et profonde.",2017-06-05
+558,73,491,4,Histoire intéressante mais style un peu lourd.,2017-09-04
+559,331,922,4,"J'ai adoré les personnages, très bien construits.",2018-01-08
+560,334,1269,1,À mettre entre toutes les mains !,2023-03-02
+561,127,320,4,,2016-02-17
+562,74,374,4,"Très bien écrit, une lecture agréable.",2022-05-27
+563,524,162,3,"Une belle découverte, l'auteur a beaucoup de talent.",2021-03-17
+564,518,1196,3,"Une belle découverte, l'auteur a beaucoup de talent.",2015-08-01
+565,500,120,4,,2015-04-13
+566,637,760,5,"Magnifique, une écriture poétique et profonde.",2019-07-06
+567,134,789,4,,2019-07-16
+568,184,523,5,"J'ai adoré les personnages, très bien construits.",2017-04-08
+569,134,876,3,,2023-08-16
+570,508,1242,4,"Une belle découverte, l'auteur a beaucoup de talent.",2015-06-14
+571,493,1052,4,Une œuvre marquante qui laisse une empreinte durable.,2022-03-09
+572,248,904,4,"Une belle découverte, l'auteur a beaucoup de talent.",2022-06-10
+573,337,334,5,Impossible à lâcher ! Un vrai page-turner.,2021-08-09
+574,637,891,5,,2021-05-06
+575,112,1064,3,"Très bien écrit, une lecture agréable.",2024-09-18
+576,696,1201,4,"Plutôt moyen, rien d'exceptionnel.",2019-01-24
+577,464,1471,5,,2016-11-09
+578,410,301,5,,2019-09-14
+579,361,215,3,Passionnant du début à la fin.,2016-11-10
+580,494,582,4,Une œuvre marquante qui laisse une empreinte durable.,2023-04-24
+581,506,203,4,"Un chef-d'œuvre absolu, à lire absolument.",2017-03-01
+582,210,145,5,Très instructif et bien documenté.,2017-07-21
+583,73,1363,3,"Une belle découverte, l'auteur a beaucoup de talent.",2018-09-11
+584,393,131,4,"Très bien écrit, une lecture agréable.",2024-08-20
+585,476,778,4,,2016-04-06
+586,21,42,5,,2020-12-04
+587,435,631,4,Passionnant du début à la fin.,2024-12-15
+588,535,1373,5,"Une belle découverte, l'auteur a beaucoup de talent.",2015-08-20
+589,787,11,4,Passionnant du début à la fin.,2017-07-20
+590,526,1335,2,Trop long à mon goût mais le fond est bon.,2017-03-02
+591,98,1258,5,"Un chef-d'œuvre absolu, à lire absolument.",2024-12-12
+592,508,785,5,À mettre entre toutes les mains !,2021-03-28
+593,479,1298,4,"Décevant, je m'attendais à mieux.",2022-12-13
+594,510,588,4,Très instructif et bien documenté.,2017-02-06
+595,184,810,5,"Une belle découverte, l'auteur a beaucoup de talent.",2018-07-23
+596,200,182,2,"Décevant, je m'attendais à mieux.",2022-06-30
+597,267,423,4,,2022-05-12
+598,27,911,3,À mettre entre toutes les mains !,2016-02-02
+599,318,1334,3,Histoire intéressante mais style un peu lourd.,2024-01-28
+600,118,1216,5,Histoire intéressante mais style un peu lourd.,2018-07-16
+601,695,1177,5,"Magnifique, une écriture poétique et profonde.",2019-04-24
+602,181,1297,3,Histoire intéressante mais style un peu lourd.,2015-01-26
+603,589,1468,5,"Une belle découverte, l'auteur a beaucoup de talent.",2022-06-16
+604,77,727,4,"Magnifique, une écriture poétique et profonde.",2022-02-18
+605,424,1082,3,"Excellent livre, je le recommande vivement !",2018-08-05
+606,691,225,5,,2015-12-30
+607,662,243,5,"Très bien écrit, une lecture agréable.",2022-04-28
+608,545,890,4,"Une belle découverte, l'auteur a beaucoup de talent.",2018-12-25
+609,593,216,3,Passionnant du début à la fin.,2019-08-24
+610,440,159,4,À mettre entre toutes les mains !,2020-02-24
+611,703,771,5,À mettre entre toutes les mains !,2018-09-25
+612,56,1468,3,"Excellent livre, je le recommande vivement !",2023-08-15
+613,84,3,5,Passionnant du début à la fin.,2018-11-02
+614,465,776,4,Trop long à mon goût mais le fond est bon.,2024-06-19
+615,658,809,4,"Un chef-d'œuvre absolu, à lire absolument.",2023-02-18
+616,143,1205,4,Histoire intéressante mais style un peu lourd.,2015-12-09
+617,783,121,3,Passionnant du début à la fin.,2021-11-21
+618,22,1488,3,Impossible à lâcher ! Un vrai page-turner.,2023-10-14
+619,305,873,5,,2018-06-26
+620,720,994,4,Une œuvre marquante qui laisse une empreinte durable.,2016-02-05
+621,385,685,3,"Une belle découverte, l'auteur a beaucoup de talent.",2017-06-19
+622,13,660,3,Histoire intéressante mais style un peu lourd.,2016-11-06
+623,557,1222,1,"Plutôt moyen, rien d'exceptionnel.",2015-10-15
+624,651,856,2,"J'ai adoré les personnages, très bien construits.",2021-06-15
+625,665,774,2,"Une belle découverte, l'auteur a beaucoup de talent.",2016-04-01
+626,52,885,4,"Excellent livre, je le recommande vivement !",2017-06-21
+627,444,942,2,Histoire intéressante mais style un peu lourd.,2016-04-30
+628,123,943,4,Une œuvre marquante qui laisse une empreinte durable.,2022-08-21
+629,481,908,4,"Très bien écrit, une lecture agréable.",2021-08-31
+630,590,584,4,,2021-12-22
+631,397,1379,1,Impossible à lâcher ! Un vrai page-turner.,2019-09-18
+632,71,305,2,"Plutôt moyen, rien d'exceptionnel.",2017-06-15
+633,19,1051,4,"Plutôt moyen, rien d'exceptionnel.",2018-06-27
+634,730,961,4,"Plutôt moyen, rien d'exceptionnel.",2020-08-29
+635,157,525,5,Impossible à lâcher ! Un vrai page-turner.,2019-07-10
+636,544,803,4,"Décevant, je m'attendais à mieux.",2020-01-05
+637,260,1029,3,"Excellent livre, je le recommande vivement !",2024-10-14
+638,799,74,4,"J'ai adoré les personnages, très bien construits.",2018-08-21
+639,264,1000,5,Passionnant du début à la fin.,2015-03-07
+640,119,399,5,"Un chef-d'œuvre absolu, à lire absolument.",2019-04-25
+641,464,311,5,,2024-05-14
+642,336,783,4,"Très bien écrit, une lecture agréable.",2018-02-08
+643,19,1098,3,Histoire intéressante mais style un peu lourd.,2023-06-09
+644,416,632,5,Une œuvre marquante qui laisse une empreinte durable.,2023-12-04
+645,122,1313,3,,2023-11-19
+646,334,115,4,"Décevant, je m'attendais à mieux.",2022-06-12
+647,222,1354,2,Trop long à mon goût mais le fond est bon.,2022-03-01
+648,242,961,5,,2017-07-01
+649,121,1339,5,,2016-03-11
+650,525,1490,2,Très instructif et bien documenté.,2021-07-04
+651,24,54,3,"Excellent livre, je le recommande vivement !",2018-05-29
+652,443,626,3,Très instructif et bien documenté.,2018-11-22
+653,699,1119,2,,2023-07-13
+654,229,1263,3,,2021-04-11
+655,579,191,5,"Très bien écrit, une lecture agréable.",2021-12-23
+656,703,329,4,Impossible à lâcher ! Un vrai page-turner.,2015-08-11
+657,22,1278,4,"Magnifique, une écriture poétique et profonde.",2015-07-24
+658,656,866,5,"J'ai adoré les personnages, très bien construits.",2024-05-03
+659,299,632,5,"Magnifique, une écriture poétique et profonde.",2019-10-14
+660,740,797,2,"Une belle découverte, l'auteur a beaucoup de talent.",2022-09-06
+661,156,1248,3,Trop long à mon goût mais le fond est bon.,2024-12-18
+662,481,103,4,,2023-04-21
+663,532,706,4,"Magnifique, une écriture poétique et profonde.",2015-02-17
+664,262,1277,4,"Magnifique, une écriture poétique et profonde.",2021-08-11
+665,720,661,5,,2015-01-28
+666,35,473,2,,2015-09-22
+667,765,1065,5,,2018-11-24
+668,604,1144,4,,2016-09-15
+669,703,636,4,"Une belle découverte, l'auteur a beaucoup de talent.",2019-09-14
+670,271,1322,5,Impossible à lâcher ! Un vrai page-turner.,2024-06-14
+671,355,1037,5,,2019-01-26
+672,78,1227,4,,2016-07-12
+673,414,476,3,Une œuvre marquante qui laisse une empreinte durable.,2016-07-02
+674,149,908,5,Très instructif et bien documenté.,2020-04-23
+675,57,1089,3,"Magnifique, une écriture poétique et profonde.",2016-11-08
+676,433,1037,3,À mettre entre toutes les mains !,2019-01-16
+677,760,760,3,Histoire intéressante mais style un peu lourd.,2021-01-13
+678,187,188,3,"Très bien écrit, une lecture agréable.",2016-05-09
+679,321,1328,5,Impossible à lâcher ! Un vrai page-turner.,2018-02-06
+680,798,205,4,"Très bien écrit, une lecture agréable.",2017-05-13
+681,638,1118,5,Passionnant du début à la fin.,2024-01-15
+682,255,322,5,Passionnant du début à la fin.,2015-02-27
+683,517,442,4,"Une belle découverte, l'auteur a beaucoup de talent.",2018-08-02
+684,171,655,2,"Un chef-d'œuvre absolu, à lire absolument.",2016-08-25
+685,286,481,3,,2023-04-14
+686,210,1166,3,Très instructif et bien documenté.,2021-06-17
+687,443,668,5,,2015-01-27
+688,503,405,5,"Excellent livre, je le recommande vivement !",2019-09-18
+689,727,531,5,Passionnant du début à la fin.,2023-01-29
+690,536,91,5,"Plutôt moyen, rien d'exceptionnel.",2016-11-30
+691,628,600,1,"Plutôt moyen, rien d'exceptionnel.",2016-10-14
+692,532,777,3,"Plutôt moyen, rien d'exceptionnel.",2019-12-11
+693,767,369,4,À mettre entre toutes les mains !,2020-01-25
+694,24,877,5,,2022-03-05
+695,370,1038,5,Trop long à mon goût mais le fond est bon.,2015-03-21
+696,537,124,4,Une œuvre marquante qui laisse une empreinte durable.,2022-08-02
+697,140,857,2,À mettre entre toutes les mains !,2022-06-14
+698,85,838,5,"Excellent livre, je le recommande vivement !",2015-09-18
+699,87,758,3,,2020-01-15
+700,766,51,5,Histoire intéressante mais style un peu lourd.,2023-08-08
+701,98,585,5,"J'ai adoré les personnages, très bien construits.",2018-10-14
+702,776,778,5,À mettre entre toutes les mains !,2022-07-30
+703,432,434,5,,2019-12-06
+704,605,1204,4,,2015-05-08
+705,707,682,3,,2021-07-17
+706,564,155,5,"Magnifique, une écriture poétique et profonde.",2023-10-12
+707,796,457,5,Trop long à mon goût mais le fond est bon.,2023-12-26
+708,339,928,4,"Un chef-d'œuvre absolu, à lire absolument.",2023-07-08
+709,661,997,5,Très instructif et bien documenté.,2018-03-26
+710,341,234,3,Trop long à mon goût mais le fond est bon.,2016-09-25
+711,174,314,1,"Magnifique, une écriture poétique et profonde.",2017-04-21
+712,288,836,5,Très instructif et bien documenté.,2016-06-22
+713,603,1159,4,"Un chef-d'œuvre absolu, à lire absolument.",2020-10-21
+714,59,917,2,Trop long à mon goût mais le fond est bon.,2015-07-01
+715,747,886,4,"Un chef-d'œuvre absolu, à lire absolument.",2021-10-14
+716,614,539,3,,2019-04-24
+717,674,1084,3,Impossible à lâcher ! Un vrai page-turner.,2016-07-31
+718,73,781,2,À mettre entre toutes les mains !,2019-03-28
+719,16,627,4,Passionnant du début à la fin.,2022-11-11
+720,508,217,5,"Magnifique, une écriture poétique et profonde.",2017-02-19
+721,650,26,4,"Magnifique, une écriture poétique et profonde.",2022-04-18
+722,774,851,5,"Excellent livre, je le recommande vivement !",2022-09-13
+723,596,786,4,,2017-05-27
+724,327,345,4,Impossible à lâcher ! Un vrai page-turner.,2022-07-28
+725,2,1388,5,"Plutôt moyen, rien d'exceptionnel.",2023-07-09
+726,782,1063,5,"Plutôt moyen, rien d'exceptionnel.",2015-10-08
+727,94,8,4,À mettre entre toutes les mains !,2016-12-15
+728,210,1442,4,Trop long à mon goût mais le fond est bon.,2020-09-25
+729,31,1040,4,"Magnifique, une écriture poétique et profonde.",2020-09-01
+730,294,535,5,Très instructif et bien documenté.,2024-05-03
+731,500,276,5,"Décevant, je m'attendais à mieux.",2019-11-03
+732,732,1456,4,Trop long à mon goût mais le fond est bon.,2017-05-20
+733,573,459,5,,2021-08-02
+734,78,1401,5,,2018-05-31
+735,239,1050,5,"Excellent livre, je le recommande vivement !",2023-08-25
+736,606,961,4,Très instructif et bien documenté.,2019-03-20
+737,525,1467,5,,2021-03-24
+738,125,1139,5,,2024-02-03
+739,539,968,3,,2016-01-10
+740,731,1419,5,,2016-10-15
+741,396,731,4,Trop long à mon goût mais le fond est bon.,2015-01-31
+742,223,118,2,"Décevant, je m'attendais à mieux.",2015-10-23
+743,502,1081,2,"Excellent livre, je le recommande vivement !",2018-06-17
+744,182,1441,3,,2024-08-07
+745,323,1078,4,,2015-11-22
+746,546,651,4,,2019-08-25
+747,224,50,5,,2018-11-10
+748,134,929,3,"Plutôt moyen, rien d'exceptionnel.",2024-12-17
+749,581,211,1,"Très bien écrit, une lecture agréable.",2015-06-24
+750,20,143,4,"Décevant, je m'attendais à mieux.",2023-07-01
+751,332,132,3,"Décevant, je m'attendais à mieux.",2016-10-01
+752,200,1113,4,,2022-06-06
+753,460,66,3,"Magnifique, une écriture poétique et profonde.",2024-12-13
+754,574,187,5,"Très bien écrit, une lecture agréable.",2024-09-15
+755,774,568,4,Une œuvre marquante qui laisse une empreinte durable.,2022-11-25
+756,242,826,1,"Décevant, je m'attendais à mieux.",2020-07-03
+757,161,75,4,"Excellent livre, je le recommande vivement !",2022-10-22
+758,731,1171,5,,2023-04-02
+759,210,1413,4,"Un chef-d'œuvre absolu, à lire absolument.",2017-09-14
+760,212,743,1,À mettre entre toutes les mains !,2017-02-06
+761,432,271,3,,2018-07-03
+762,591,558,4,,2017-09-27
+763,37,744,4,Passionnant du début à la fin.,2016-02-16
+764,212,454,4,,2019-06-10
+765,454,416,2,Impossible à lâcher ! Un vrai page-turner.,2024-05-12
+766,154,601,5,"Très bien écrit, une lecture agréable.",2022-02-25
+767,207,693,4,Trop long à mon goût mais le fond est bon.,2018-10-14
+768,245,485,4,Trop long à mon goût mais le fond est bon.,2017-07-11
+769,677,1060,5,Histoire intéressante mais style un peu lourd.,2017-04-01
+770,227,1240,2,"Plutôt moyen, rien d'exceptionnel.",2015-03-21
+771,720,24,1,"Très bien écrit, une lecture agréable.",2019-05-25
+772,146,1397,4,"Très bien écrit, une lecture agréable.",2022-12-31
+773,318,882,4,Histoire intéressante mais style un peu lourd.,2019-05-22
+774,372,12,5,"Un chef-d'œuvre absolu, à lire absolument.",2021-06-23
+775,262,1297,5,Une œuvre marquante qui laisse une empreinte durable.,2019-01-17
+776,524,1468,4,Histoire intéressante mais style un peu lourd.,2019-05-11
+777,761,589,4,,2020-08-18
+778,109,1323,5,,2017-05-24
+779,174,5,2,"Très bien écrit, une lecture agréable.",2021-09-23
+780,535,1122,5,,2023-05-06
+781,17,1217,2,Passionnant du début à la fin.,2015-05-13
+782,468,704,2,Impossible à lâcher ! Un vrai page-turner.,2016-10-23
+783,400,946,4,"Excellent livre, je le recommande vivement !",2018-02-23
+784,411,193,5,"Magnifique, une écriture poétique et profonde.",2016-08-18
+785,690,1306,5,Histoire intéressante mais style un peu lourd.,2017-03-14
+786,751,1238,4,"Plutôt moyen, rien d'exceptionnel.",2024-11-12
+787,762,1304,4,"Une belle découverte, l'auteur a beaucoup de talent.",2023-10-19
+788,169,21,2,,2024-06-24
+789,570,996,2,,2017-07-20
+790,393,1380,3,Trop long à mon goût mais le fond est bon.,2023-06-08
+791,303,182,3,À mettre entre toutes les mains !,2022-12-21
+792,765,961,2,"J'ai adoré les personnages, très bien construits.",2019-11-29
+793,303,691,3,Passionnant du début à la fin.,2021-07-05
+794,378,728,1,"Excellent livre, je le recommande vivement !",2015-07-23
+795,149,1287,4,,2019-10-14
+796,737,1194,4,Passionnant du début à la fin.,2019-10-06
+797,261,277,5,Impossible à lâcher ! Un vrai page-turner.,2017-11-07
+798,209,846,4,,2023-10-14
+799,625,51,4,Histoire intéressante mais style un peu lourd.,2018-08-17
+800,59,1321,4,Trop long à mon goût mais le fond est bon.,2022-06-16
+801,305,906,1,Trop long à mon goût mais le fond est bon.,2015-01-25
+802,451,606,2,,2019-10-19
+803,14,343,3,,2018-08-16
+804,208,1354,4,,2023-05-02
+805,96,922,4,"Plutôt moyen, rien d'exceptionnel.",2015-04-26
+806,590,710,3,,2019-02-24
+807,273,1391,1,"Une belle découverte, l'auteur a beaucoup de talent.",2021-11-20
+808,38,719,5,"Décevant, je m'attendais à mieux.",2021-03-17
+809,117,913,3,Très instructif et bien documenté.,2024-07-04
+810,626,832,4,"Excellent livre, je le recommande vivement !",2023-07-14
+811,782,1113,3,"Magnifique, une écriture poétique et profonde.",2022-05-31
+812,363,889,5,,2015-09-07
+813,392,584,4,Une œuvre marquante qui laisse une empreinte durable.,2020-05-18
+814,386,532,4,Trop long à mon goût mais le fond est bon.,2016-11-25
+815,339,98,4,"Excellent livre, je le recommande vivement !",2023-05-09
+816,697,160,4,Histoire intéressante mais style un peu lourd.,2017-10-12
+817,588,1189,4,"J'ai adoré les personnages, très bien construits.",2015-03-05
+818,595,1186,5,"Très bien écrit, une lecture agréable.",2015-02-03
+819,148,1067,3,Une œuvre marquante qui laisse une empreinte durable.,2016-03-14
+820,257,489,4,Passionnant du début à la fin.,2022-08-31
+821,342,289,1,,2022-07-17
+822,743,1110,5,Impossible à lâcher ! Un vrai page-turner.,2016-04-27
+823,550,251,5,Une œuvre marquante qui laisse une empreinte durable.,2020-12-07
+824,37,715,3,Très instructif et bien documenté.,2021-10-12
+825,790,88,5,"Excellent livre, je le recommande vivement !",2019-11-09
+826,501,450,5,"Plutôt moyen, rien d'exceptionnel.",2017-07-10
+827,55,465,4,"Excellent livre, je le recommande vivement !",2016-03-04
+828,756,883,4,Trop long à mon goût mais le fond est bon.,2021-08-23
+829,146,1426,4,,2024-09-13
+830,663,252,5,Une œuvre marquante qui laisse une empreinte durable.,2020-06-28
+831,104,1186,4,"Une belle découverte, l'auteur a beaucoup de talent.",2018-04-16
+832,778,628,3,"Excellent livre, je le recommande vivement !",2024-07-12
+833,447,1211,5,"J'ai adoré les personnages, très bien construits.",2018-06-21
+834,254,1045,4,"Un chef-d'œuvre absolu, à lire absolument.",2021-03-12
+835,659,626,3,"J'ai adoré les personnages, très bien construits.",2022-02-08
+836,326,764,4,Passionnant du début à la fin.,2021-09-21
+837,473,1280,3,À mettre entre toutes les mains !,2019-08-03
+838,233,337,5,Histoire intéressante mais style un peu lourd.,2017-07-24
+839,501,88,3,Impossible à lâcher ! Un vrai page-turner.,2015-11-19
+840,585,1366,5,Trop long à mon goût mais le fond est bon.,2023-07-30
+841,329,1400,5,,2017-12-23
+842,65,1404,3,,2020-01-11
+843,407,1062,4,Impossible à lâcher ! Un vrai page-turner.,2023-10-01
+844,520,910,4,"Très bien écrit, une lecture agréable.",2022-03-10
+845,649,884,1,À mettre entre toutes les mains !,2022-01-13
+846,89,1195,2,"Décevant, je m'attendais à mieux.",2022-08-20
+847,275,382,5,"Un chef-d'œuvre absolu, à lire absolument.",2019-12-14
+848,257,1493,4,"Plutôt moyen, rien d'exceptionnel.",2015-07-05
+849,69,447,5,Histoire intéressante mais style un peu lourd.,2017-02-28
+850,295,154,3,"Une belle découverte, l'auteur a beaucoup de talent.",2023-01-10
+851,123,896,5,,2016-05-24
+852,67,223,5,Trop long à mon goût mais le fond est bon.,2016-11-29
+853,26,912,3,"Une belle découverte, l'auteur a beaucoup de talent.",2024-12-07
+854,769,469,5,Histoire intéressante mais style un peu lourd.,2024-04-01
+855,332,715,5,Histoire intéressante mais style un peu lourd.,2020-01-26
+856,199,132,4,"Plutôt moyen, rien d'exceptionnel.",2020-12-26
+857,335,1214,3,"Une belle découverte, l'auteur a beaucoup de talent.",2022-02-22
+858,744,39,1,"Plutôt moyen, rien d'exceptionnel.",2024-12-16
+859,619,550,3,,2016-05-25
+860,306,1121,4,À mettre entre toutes les mains !,2024-12-24
+861,107,829,4,"Plutôt moyen, rien d'exceptionnel.",2020-12-08
+862,49,1389,5,"Très bien écrit, une lecture agréable.",2020-09-12
+863,701,1272,1,"Décevant, je m'attendais à mieux.",2018-02-26
+864,292,824,5,,2020-11-28
+865,175,886,2,À mettre entre toutes les mains !,2019-03-27
+866,35,1117,4,Trop long à mon goût mais le fond est bon.,2024-05-11
+867,207,161,3,,2016-01-19
+868,529,175,3,Très instructif et bien documenté.,2016-09-13
+869,604,413,4,Histoire intéressante mais style un peu lourd.,2018-10-22
+870,7,1332,3,"Magnifique, une écriture poétique et profonde.",2020-11-18
+871,757,471,3,,2015-11-28
+872,412,587,4,"Décevant, je m'attendais à mieux.",2023-02-19
+873,489,405,4,"Plutôt moyen, rien d'exceptionnel.",2024-01-31
+874,99,417,5,"Une belle découverte, l'auteur a beaucoup de talent.",2022-04-12
+875,135,1431,3,À mettre entre toutes les mains !,2023-10-04
+876,572,212,4,"J'ai adoré les personnages, très bien construits.",2017-04-30
+877,675,1188,3,"Plutôt moyen, rien d'exceptionnel.",2017-10-17
+878,35,359,2,"Très bien écrit, une lecture agréable.",2019-07-30
+879,53,1335,3,"Très bien écrit, une lecture agréable.",2023-02-21
+880,485,1068,4,,2020-09-23
+881,505,635,4,,2016-10-16
+882,424,1416,4,"Très bien écrit, une lecture agréable.",2015-01-16
+883,347,1424,1,Trop long à mon goût mais le fond est bon.,2020-05-23
+884,550,153,3,"Un chef-d'œuvre absolu, à lire absolument.",2019-12-25
+885,625,1298,3,Passionnant du début à la fin.,2022-02-10
+886,581,458,5,Très instructif et bien documenté.,2021-03-28
+887,159,377,5,"Plutôt moyen, rien d'exceptionnel.",2016-01-30
+888,281,872,4,Passionnant du début à la fin.,2017-09-30
+889,793,864,4,"Un chef-d'œuvre absolu, à lire absolument.",2023-09-15
+890,179,88,4,Une œuvre marquante qui laisse une empreinte durable.,2020-09-26
+891,425,204,5,,2019-11-04
+892,689,327,3,,2022-10-17
+893,399,1021,4,,2021-06-17
+894,287,790,4,Histoire intéressante mais style un peu lourd.,2022-11-22
+895,80,309,4,Histoire intéressante mais style un peu lourd.,2018-04-22
+896,449,216,5,"Décevant, je m'attendais à mieux.",2015-06-02
+897,576,413,5,,2021-02-24
+898,458,630,4,"Un chef-d'œuvre absolu, à lire absolument.",2024-02-26
+899,460,1116,4,À mettre entre toutes les mains !,2015-10-15
+900,492,454,5,,2020-01-26
+901,471,835,1,Très instructif et bien documenté.,2017-02-10
+902,626,1332,4,À mettre entre toutes les mains !,2017-09-10
+903,418,1142,4,Trop long à mon goût mais le fond est bon.,2019-01-13
+904,792,972,3,Impossible à lâcher ! Un vrai page-turner.,2021-02-25
+905,258,1320,3,Trop long à mon goût mais le fond est bon.,2022-12-11
+906,250,1384,3,Une œuvre marquante qui laisse une empreinte durable.,2019-03-02
+907,427,176,5,Passionnant du début à la fin.,2017-06-25
+908,351,987,4,"J'ai adoré les personnages, très bien construits.",2020-11-18
+909,371,1153,2,Passionnant du début à la fin.,2020-08-30
+910,240,848,2,"J'ai adoré les personnages, très bien construits.",2024-01-09
+911,526,1430,3,"Plutôt moyen, rien d'exceptionnel.",2024-10-28
+912,580,341,3,Trop long à mon goût mais le fond est bon.,2015-06-03
+913,289,268,3,"Décevant, je m'attendais à mieux.",2018-12-10
+914,400,1017,4,,2020-05-17
+915,530,355,4,Impossible à lâcher ! Un vrai page-turner.,2021-03-24
+916,560,147,5,À mettre entre toutes les mains !,2015-01-14
+917,240,898,5,"Décevant, je m'attendais à mieux.",2021-08-09
+918,299,6,3,Une œuvre marquante qui laisse une empreinte durable.,2023-02-22
+919,32,623,3,"Magnifique, une écriture poétique et profonde.",2016-10-04
+920,448,1252,5,"Excellent livre, je le recommande vivement !",2020-09-30
+921,749,769,3,"Excellent livre, je le recommande vivement !",2020-11-16
+922,424,209,4,"J'ai adoré les personnages, très bien construits.",2015-01-13
+923,508,1486,5,Très instructif et bien documenté.,2017-04-26
+924,695,164,3,"Excellent livre, je le recommande vivement !",2016-11-12
+925,693,965,5,"Décevant, je m'attendais à mieux.",2019-01-10
+926,44,136,5,"Une belle découverte, l'auteur a beaucoup de talent.",2019-02-01
+927,374,655,4,"Un chef-d'œuvre absolu, à lire absolument.",2022-02-12
+928,153,1138,2,,2022-06-22
+929,508,1372,5,,2018-10-28
+930,404,122,5,Passionnant du début à la fin.,2020-05-15
+931,216,1072,5,Une œuvre marquante qui laisse une empreinte durable.,2018-03-08
+932,119,105,4,,2015-04-28
+933,765,884,5,Trop long à mon goût mais le fond est bon.,2024-11-07
+934,691,137,4,,2015-11-21
+935,452,776,4,"Décevant, je m'attendais à mieux.",2018-04-16
+936,299,1421,4,À mettre entre toutes les mains !,2021-08-13
+937,94,1046,2,Très instructif et bien documenté.,2022-09-29
+938,397,1270,5,Passionnant du début à la fin.,2024-07-01
+939,371,539,4,,2021-03-29
+940,196,550,5,,2015-03-29
+941,382,399,3,"Décevant, je m'attendais à mieux.",2024-02-12
+942,645,636,4,Trop long à mon goût mais le fond est bon.,2021-08-07
+943,410,773,5,Très instructif et bien documenté.,2024-08-02
+944,744,1404,2,Passionnant du début à la fin.,2020-10-20
+945,570,75,3,"Excellent livre, je le recommande vivement !",2017-03-01
+946,430,457,5,Histoire intéressante mais style un peu lourd.,2018-09-28
+947,108,283,5,"J'ai adoré les personnages, très bien construits.",2021-04-28
+948,247,922,4,"Décevant, je m'attendais à mieux.",2022-05-06
+949,761,1244,3,,2022-04-02
+950,705,597,3,"Très bien écrit, une lecture agréable.",2022-09-12
+951,168,174,5,Une œuvre marquante qui laisse une empreinte durable.,2022-12-30
+952,332,677,5,Impossible à lâcher ! Un vrai page-turner.,2015-05-06
+953,42,974,3,Très instructif et bien documenté.,2024-07-21
+954,774,1141,4,"Excellent livre, je le recommande vivement !",2019-04-12
+955,657,430,5,Une œuvre marquante qui laisse une empreinte durable.,2020-11-28
+956,203,906,4,Passionnant du début à la fin.,2016-03-23
+957,54,584,2,"Une belle découverte, l'auteur a beaucoup de talent.",2020-06-02
+958,389,997,4,"Magnifique, une écriture poétique et profonde.",2022-10-10
+959,660,414,5,"Décevant, je m'attendais à mieux.",2018-01-16
+960,616,785,4,Impossible à lâcher ! Un vrai page-turner.,2019-09-24
+961,483,643,3,"Très bien écrit, une lecture agréable.",2024-01-27
+962,136,62,5,Histoire intéressante mais style un peu lourd.,2022-07-07
+963,25,335,4,À mettre entre toutes les mains !,2018-02-11
+964,306,417,4,"Décevant, je m'attendais à mieux.",2019-03-25
+965,603,916,4,"Très bien écrit, une lecture agréable.",2017-08-22
+966,692,796,4,"Plutôt moyen, rien d'exceptionnel.",2020-11-03
+967,437,1037,4,Impossible à lâcher ! Un vrai page-turner.,2024-10-10
+968,9,1064,5,"Un chef-d'œuvre absolu, à lire absolument.",2021-05-02
+969,81,609,2,Passionnant du début à la fin.,2021-07-20
+970,40,1485,5,"Excellent livre, je le recommande vivement !",2022-09-14
+971,289,597,3,"Une belle découverte, l'auteur a beaucoup de talent.",2015-08-07
+972,464,283,4,À mettre entre toutes les mains !,2016-09-08
+973,492,1149,4,,2018-09-30
+974,259,943,5,,2020-04-30
+975,284,113,4,Une œuvre marquante qui laisse une empreinte durable.,2021-11-18
+976,252,1252,2,Très instructif et bien documenté.,2015-01-30
+977,245,920,4,"J'ai adoré les personnages, très bien construits.",2015-05-07
+978,234,644,4,Impossible à lâcher ! Un vrai page-turner.,2022-09-24
+979,118,1385,5,"Magnifique, une écriture poétique et profonde.",2019-03-05
+980,548,1014,4,,2023-01-26
+981,481,734,1,,2022-05-02
+982,689,1279,3,"Magnifique, une écriture poétique et profonde.",2016-12-11
+983,331,807,5,Impossible à lâcher ! Un vrai page-turner.,2020-05-12
+984,709,624,5,Une œuvre marquante qui laisse une empreinte durable.,2017-09-29
+985,95,982,5,,2019-07-10
+986,186,833,4,Très instructif et bien documenté.,2024-07-17
+987,541,843,2,Très instructif et bien documenté.,2017-07-16
+988,784,1151,4,"Très bien écrit, une lecture agréable.",2017-09-17
+989,11,406,2,"Décevant, je m'attendais à mieux.",2018-05-26
+990,702,1260,4,Impossible à lâcher ! Un vrai page-turner.,2017-11-01
+991,413,813,4,Impossible à lâcher ! Un vrai page-turner.,2020-06-15
+992,464,63,5,Histoire intéressante mais style un peu lourd.,2018-01-06
+993,255,526,5,Histoire intéressante mais style un peu lourd.,2016-02-27
+994,136,224,4,"Excellent livre, je le recommande vivement !",2021-01-24
+995,668,65,5,Une œuvre marquante qui laisse une empreinte durable.,2020-12-15
+996,631,512,5,"Décevant, je m'attendais à mieux.",2020-12-21
+997,10,49,5,Une œuvre marquante qui laisse une empreinte durable.,2015-03-18
+998,364,505,5,Histoire intéressante mais style un peu lourd.,2022-02-05
+999,364,818,4,Impossible à lâcher ! Un vrai page-turner.,2015-06-11
+1000,40,164,4,"Un chef-d'œuvre absolu, à lire absolument.",2016-01-02
+1001,324,273,5,,2018-01-20
+1002,126,642,4,À mettre entre toutes les mains !,2017-12-29
+1003,712,298,4,Une œuvre marquante qui laisse une empreinte durable.,2016-01-17
+1004,668,358,4,À mettre entre toutes les mains !,2024-06-10
+1005,585,405,5,Une œuvre marquante qui laisse une empreinte durable.,2018-09-08
+1006,447,1261,3,,2016-01-19
+1007,565,549,3,Trop long à mon goût mais le fond est bon.,2019-03-30
+1008,86,849,5,"Décevant, je m'attendais à mieux.",2024-11-30
+1009,590,1465,5,,2019-08-25
+1010,289,134,1,,2018-06-11
+1011,65,1304,4,"Une belle découverte, l'auteur a beaucoup de talent.",2024-12-15
+1012,252,1369,3,Une œuvre marquante qui laisse une empreinte durable.,2016-07-29
+1013,218,524,4,À mettre entre toutes les mains !,2019-01-22
+1014,289,880,5,,2022-05-23
+1015,64,452,5,À mettre entre toutes les mains !,2019-08-12
+1016,466,1384,3,"Magnifique, une écriture poétique et profonde.",2015-08-01
+1017,78,1233,5,Impossible à lâcher ! Un vrai page-turner.,2016-12-09
+1018,723,1045,5,,2018-05-14
+1019,696,431,5,Passionnant du début à la fin.,2024-10-30
+1020,656,537,5,À mettre entre toutes les mains !,2024-03-06
+1021,441,257,5,Une œuvre marquante qui laisse une empreinte durable.,2019-09-28
+1022,766,1325,1,"Plutôt moyen, rien d'exceptionnel.",2015-12-13
+1023,777,509,5,Histoire intéressante mais style un peu lourd.,2022-12-24
+1024,466,683,5,Très instructif et bien documenté.,2017-11-19
+1025,794,89,4,"Très bien écrit, une lecture agréable.",2020-08-22
+1026,753,650,1,"Plutôt moyen, rien d'exceptionnel.",2024-12-02
+1027,142,1372,3,"Magnifique, une écriture poétique et profonde.",2018-07-15
+1028,788,552,4,"Décevant, je m'attendais à mieux.",2015-09-01
+1029,412,1264,1,Trop long à mon goût mais le fond est bon.,2016-03-21
+1030,99,1279,5,Très instructif et bien documenté.,2021-08-21
+1031,466,448,4,,2017-09-03
+1032,2,476,2,Trop long à mon goût mais le fond est bon.,2018-06-21
+1033,234,1221,5,Une œuvre marquante qui laisse une empreinte durable.,2023-07-04
+1034,131,1121,1,"Magnifique, une écriture poétique et profonde.",2015-03-11
+1035,63,1197,5,À mettre entre toutes les mains !,2023-06-17
+1036,216,221,4,"Excellent livre, je le recommande vivement !",2020-04-18
+1037,574,1017,3,Passionnant du début à la fin.,2022-09-04
+1038,194,1192,1,,2023-07-06
+1039,279,1299,5,"Décevant, je m'attendais à mieux.",2023-05-14
+1040,638,326,5,,2018-09-17
+1041,698,747,5,Passionnant du début à la fin.,2023-02-16
+1042,392,303,5,"Une belle découverte, l'auteur a beaucoup de talent.",2019-03-02
+1043,394,707,5,À mettre entre toutes les mains !,2017-06-18
+1044,235,1218,3,Histoire intéressante mais style un peu lourd.,2017-04-30
+1045,74,61,4,"Plutôt moyen, rien d'exceptionnel.",2020-08-28
+1046,521,724,5,"Plutôt moyen, rien d'exceptionnel.",2017-02-04
+1047,543,31,4,"Une belle découverte, l'auteur a beaucoup de talent.",2017-01-07
+1048,744,1044,3,"Un chef-d'œuvre absolu, à lire absolument.",2015-02-19
+1049,699,146,4,Une œuvre marquante qui laisse une empreinte durable.,2019-01-20
+1050,647,1318,4,"Plutôt moyen, rien d'exceptionnel.",2018-04-12
+1051,414,1301,4,,2020-01-21
+1052,772,599,3,"Magnifique, une écriture poétique et profonde.",2018-08-01
+1053,696,773,4,,2017-05-06
+1054,161,917,2,"Magnifique, une écriture poétique et profonde.",2020-09-10
+1055,458,731,4,"Excellent livre, je le recommande vivement !",2023-11-29
+1056,594,1131,5,"Excellent livre, je le recommande vivement !",2020-06-12
+1057,350,1358,5,,2019-06-28
+1058,600,97,5,"Un chef-d'œuvre absolu, à lire absolument.",2021-07-07
+1059,22,1296,4,"Plutôt moyen, rien d'exceptionnel.",2017-10-26
+1060,492,1014,3,,2016-09-02
+1061,306,1289,5,Très instructif et bien documenté.,2018-01-06
+1062,14,1397,4,Impossible à lâcher ! Un vrai page-turner.,2020-06-04
+1063,83,1109,4,"Excellent livre, je le recommande vivement !",2016-05-09
+1064,70,371,2,,2019-06-17
+1065,501,369,4,"Très bien écrit, une lecture agréable.",2023-03-30
+1066,405,1267,5,"Décevant, je m'attendais à mieux.",2019-11-11
+1067,85,1308,5,"Magnifique, une écriture poétique et profonde.",2019-09-18
+1068,282,991,2,,2022-10-15
+1069,587,451,3,Trop long à mon goût mais le fond est bon.,2019-02-10
+1070,139,1436,5,"Très bien écrit, une lecture agréable.",2022-09-05
+1071,781,395,1,,2023-04-05
+1072,396,164,4,"Décevant, je m'attendais à mieux.",2016-01-07
+1073,339,325,5,"Excellent livre, je le recommande vivement !",2024-05-30
+1074,505,605,2,"J'ai adoré les personnages, très bien construits.",2019-03-27
+1075,729,1425,3,"Plutôt moyen, rien d'exceptionnel.",2019-03-28
+1076,25,608,2,"Un chef-d'œuvre absolu, à lire absolument.",2016-01-30
+1077,408,1006,2,,2018-05-16
+1078,392,517,5,"Excellent livre, je le recommande vivement !",2019-04-09
+1079,50,806,2,"Magnifique, une écriture poétique et profonde.",2017-08-28
+1080,504,929,4,"Décevant, je m'attendais à mieux.",2015-10-24
+1081,262,251,4,,2020-02-24
+1082,165,1246,1,"Une belle découverte, l'auteur a beaucoup de talent.",2021-12-17
+1083,546,1475,1,,2016-01-25
+1084,468,125,5,Histoire intéressante mais style un peu lourd.,2020-03-19
+1085,654,1389,4,"Magnifique, une écriture poétique et profonde.",2019-02-26
+1086,466,747,4,,2017-07-11
+1087,750,461,4,À mettre entre toutes les mains !,2018-08-04
+1088,649,1207,5,Très instructif et bien documenté.,2020-06-26
+1089,618,171,5,,2021-07-16
+1090,780,1266,5,"Magnifique, une écriture poétique et profonde.",2017-06-09
+1091,761,990,4,Une œuvre marquante qui laisse une empreinte durable.,2019-07-06
+1092,323,333,3,,2015-01-19
+1093,296,647,5,,2024-11-01
+1094,218,51,3,"Décevant, je m'attendais à mieux.",2015-04-17
+1095,475,67,1,,2023-08-17
+1096,480,716,3,"Un chef-d'œuvre absolu, à lire absolument.",2024-02-10
+1097,726,1262,4,À mettre entre toutes les mains !,2016-01-02
+1098,435,432,4,"Très bien écrit, une lecture agréable.",2020-04-13
+1099,145,1300,3,,2024-01-28
+1100,358,1039,3,"Décevant, je m'attendais à mieux.",2019-05-10
+1101,231,1404,3,,2023-08-07
+1102,55,529,4,Une œuvre marquante qui laisse une empreinte durable.,2022-02-23
+1103,654,27,4,À mettre entre toutes les mains !,2019-10-25
+1104,712,162,2,"Plutôt moyen, rien d'exceptionnel.",2015-03-26
+1105,310,624,5,Trop long à mon goût mais le fond est bon.,2018-07-28
+1106,698,952,5,,2016-02-14
+1107,137,912,2,"Très bien écrit, une lecture agréable.",2015-01-04
+1108,579,1088,5,Une œuvre marquante qui laisse une empreinte durable.,2022-05-25
+1109,465,852,5,"J'ai adoré les personnages, très bien construits.",2019-02-14
+1110,132,175,3,"Une belle découverte, l'auteur a beaucoup de talent.",2017-04-07
+1111,670,925,2,,2023-07-30
+1112,7,809,4,Trop long à mon goût mais le fond est bon.,2018-01-27
+1113,430,630,2,"Un chef-d'œuvre absolu, à lire absolument.",2018-12-04
+1114,622,637,4,"Un chef-d'œuvre absolu, à lire absolument.",2022-02-17
+1115,478,598,5,Passionnant du début à la fin.,2020-02-25
+1116,455,778,4,"Magnifique, une écriture poétique et profonde.",2022-10-16
+1117,504,1470,4,"Magnifique, une écriture poétique et profonde.",2024-04-21
+1118,587,766,2,Trop long à mon goût mais le fond est bon.,2015-05-20
+1119,230,1486,3,"Un chef-d'œuvre absolu, à lire absolument.",2022-05-13
+1120,492,62,2,"Excellent livre, je le recommande vivement !",2024-11-21
+1121,630,723,5,"Magnifique, une écriture poétique et profonde.",2019-12-07
+1122,662,158,4,"Très bien écrit, une lecture agréable.",2021-12-18
+1123,625,779,5,"Un chef-d'œuvre absolu, à lire absolument.",2016-07-30
+1124,229,119,4,"Une belle découverte, l'auteur a beaucoup de talent.",2016-09-10
+1125,345,1470,4,,2016-01-10
+1126,371,1308,5,À mettre entre toutes les mains !,2018-11-12
+1127,704,1403,4,Très instructif et bien documenté.,2023-09-21
+1128,518,597,2,,2023-06-27
+1129,700,1188,4,Très instructif et bien documenté.,2015-03-12
+1130,445,380,4,"Très bien écrit, une lecture agréable.",2018-08-07
+1131,737,1425,5,"Magnifique, une écriture poétique et profonde.",2024-04-15
+1132,198,55,5,"Excellent livre, je le recommande vivement !",2018-12-10
+1133,86,1309,4,"Un chef-d'œuvre absolu, à lire absolument.",2018-01-27
+1134,582,420,4,"Plutôt moyen, rien d'exceptionnel.",2015-09-08
+1135,710,1070,4,"J'ai adoré les personnages, très bien construits.",2023-06-29
+1136,255,583,4,À mettre entre toutes les mains !,2017-12-03
+1137,97,1442,4,"Très bien écrit, une lecture agréable.",2023-12-24
+1138,550,1006,5,Impossible à lâcher ! Un vrai page-turner.,2019-07-26
+1139,293,1024,3,"Un chef-d'œuvre absolu, à lire absolument.",2016-07-27
+1140,401,1082,3,"Une belle découverte, l'auteur a beaucoup de talent.",2015-04-10
+1141,619,1473,5,,2024-07-07
+1142,344,214,4,,2022-12-16
+1143,604,83,4,"Plutôt moyen, rien d'exceptionnel.",2023-11-09
+1144,159,774,2,"Un chef-d'œuvre absolu, à lire absolument.",2017-07-03
+1145,105,384,3,,2022-07-08
+1146,787,1148,5,Trop long à mon goût mais le fond est bon.,2017-07-02
+1147,273,15,3,,2019-12-17
+1148,761,517,3,Trop long à mon goût mais le fond est bon.,2018-10-29
+1149,733,373,5,,2019-07-01
+1150,626,822,4,Très instructif et bien documenté.,2016-04-15
+1151,423,1214,3,"Très bien écrit, une lecture agréable.",2020-03-04
+1152,107,507,4,"Magnifique, une écriture poétique et profonde.",2021-03-16
+1153,305,672,3,À mettre entre toutes les mains !,2022-01-08
+1154,335,15,4,"J'ai adoré les personnages, très bien construits.",2019-12-06
+1155,267,1399,3,"Excellent livre, je le recommande vivement !",2020-06-08
+1156,426,860,3,Histoire intéressante mais style un peu lourd.,2016-04-16
+1157,232,1118,4,,2020-02-12
+1158,447,96,4,"Un chef-d'œuvre absolu, à lire absolument.",2018-12-05
+1159,622,587,4,Une œuvre marquante qui laisse une empreinte durable.,2023-10-06
+1160,131,525,4,Très instructif et bien documenté.,2023-06-28
+1161,555,1100,2,"Magnifique, une écriture poétique et profonde.",2017-02-13
+1162,374,509,3,À mettre entre toutes les mains !,2024-04-21
+1163,362,638,4,"Très bien écrit, une lecture agréable.",2016-02-27
+1164,661,1186,4,,2016-02-13
+1165,300,1380,5,Impossible à lâcher ! Un vrai page-turner.,2022-03-10
+1166,677,1394,5,Une œuvre marquante qui laisse une empreinte durable.,2021-06-21
+1167,519,1336,3,"Plutôt moyen, rien d'exceptionnel.",2017-10-22
+1168,289,1147,5,"Magnifique, une écriture poétique et profonde.",2016-02-10
+1169,138,940,4,,2019-12-18
+1170,502,1429,2,"Magnifique, une écriture poétique et profonde.",2020-08-17
+1171,347,399,5,Une œuvre marquante qui laisse une empreinte durable.,2021-08-16
+1172,99,1395,4,Impossible à lâcher ! Un vrai page-turner.,2017-10-30
+1173,15,1078,1,,2023-11-24
+1174,775,1102,4,,2021-05-08
+1175,651,92,5,"Très bien écrit, une lecture agréable.",2021-10-14
+1176,633,797,3,"Excellent livre, je le recommande vivement !",2016-09-25
+1177,712,1158,3,Passionnant du début à la fin.,2016-06-03
+1178,426,1311,3,"Décevant, je m'attendais à mieux.",2020-11-19
+1179,15,346,3,Passionnant du début à la fin.,2019-09-16
+1180,183,848,1,,2015-02-03
+1181,374,1188,4,"Très bien écrit, une lecture agréable.",2024-09-04
+1182,539,1130,4,,2017-10-10
+1183,1,1,3,,2021-01-12
+1184,158,1119,5,À mettre entre toutes les mains !,2020-05-16
+1185,645,329,5,"Magnifique, une écriture poétique et profonde.",2016-09-25
+1186,53,391,1,,2024-08-18
+1187,556,129,5,À mettre entre toutes les mains !,2016-11-27
+1188,171,420,5,Trop long à mon goût mais le fond est bon.,2022-04-06
+1189,401,343,2,Passionnant du début à la fin.,2024-07-18
+1190,714,139,5,"Excellent livre, je le recommande vivement !",2019-12-30
+1191,3,1391,5,"Décevant, je m'attendais à mieux.",2021-12-13
+1192,680,342,5,Histoire intéressante mais style un peu lourd.,2024-07-09
+1193,159,1357,4,"Plutôt moyen, rien d'exceptionnel.",2023-08-16
+1194,244,628,4,Trop long à mon goût mais le fond est bon.,2017-03-31
+1195,573,1194,5,"Plutôt moyen, rien d'exceptionnel.",2020-06-19
+1196,661,1342,3,Impossible à lâcher ! Un vrai page-turner.,2015-12-29
+1197,55,1249,2,"Un chef-d'œuvre absolu, à lire absolument.",2017-09-09
+1198,369,744,5,"Une belle découverte, l'auteur a beaucoup de talent.",2024-06-24
+1199,153,1056,4,"Magnifique, une écriture poétique et profonde.",2017-06-01
+1200,664,1057,5,,2019-11-16
+1201,84,1358,4,"J'ai adoré les personnages, très bien construits.",2021-03-23
+1202,500,749,3,"Décevant, je m'attendais à mieux.",2021-08-01
+1203,420,177,3,"Magnifique, une écriture poétique et profonde.",2023-07-02
+1204,59,1386,5,Histoire intéressante mais style un peu lourd.,2015-09-22
+1205,439,959,4,"Décevant, je m'attendais à mieux.",2022-04-24
+1206,44,384,4,"Plutôt moyen, rien d'exceptionnel.",2021-11-24
+1207,699,1497,4,Une œuvre marquante qui laisse une empreinte durable.,2017-12-14
+1208,555,166,5,Impossible à lâcher ! Un vrai page-turner.,2016-05-10
+1209,485,1283,3,Très instructif et bien documenté.,2020-10-14
+1210,309,1098,5,Histoire intéressante mais style un peu lourd.,2015-06-25
+1211,46,1181,5,"Plutôt moyen, rien d'exceptionnel.",2023-09-30
+1212,530,815,3,"Excellent livre, je le recommande vivement !",2024-12-05
+1213,506,1346,3,,2015-08-17
+1214,571,1307,4,Très instructif et bien documenté.,2015-03-26
+1215,83,1168,5,"Un chef-d'œuvre absolu, à lire absolument.",2023-07-21
+1216,674,1361,5,"Magnifique, une écriture poétique et profonde.",2016-08-24
+1217,674,1264,2,Une œuvre marquante qui laisse une empreinte durable.,2022-10-27
+1218,778,766,5,"Excellent livre, je le recommande vivement !",2022-11-16
+1219,705,1121,3,À mettre entre toutes les mains !,2015-02-24
+1220,2,213,3,"Très bien écrit, une lecture agréable.",2016-06-07
+1221,800,433,4,,2022-11-22
+1222,192,601,4,Histoire intéressante mais style un peu lourd.,2023-10-20
+1223,496,1390,1,,2018-11-13
+1224,119,1172,4,"Magnifique, une écriture poétique et profonde.",2020-01-11
+1225,143,632,4,"Excellent livre, je le recommande vivement !",2021-12-20
+1226,369,969,4,Une œuvre marquante qui laisse une empreinte durable.,2018-03-22
+1227,546,982,4,"Un chef-d'œuvre absolu, à lire absolument.",2015-08-11
+1228,703,1089,3,"Magnifique, une écriture poétique et profonde.",2021-01-06
+1229,618,61,5,,2023-10-18
+1230,691,117,1,Trop long à mon goût mais le fond est bon.,2017-10-20
+1231,274,1313,4,"Magnifique, une écriture poétique et profonde.",2015-11-26
+1232,518,30,5,"Décevant, je m'attendais à mieux.",2015-07-06
+1233,695,316,3,,2023-10-04
+1234,578,977,5,"Un chef-d'œuvre absolu, à lire absolument.",2023-09-19
+1235,444,1138,5,"J'ai adoré les personnages, très bien construits.",2020-08-15
+1236,492,775,3,À mettre entre toutes les mains !,2019-01-03
+1237,356,285,3,Passionnant du début à la fin.,2019-04-23
+1238,554,738,1,Très instructif et bien documenté.,2019-04-24
+1239,274,1026,4,,2019-06-30
+1240,318,1045,4,"Excellent livre, je le recommande vivement !",2015-08-09
+1241,180,704,4,Histoire intéressante mais style un peu lourd.,2018-10-26
+1242,256,489,3,Passionnant du début à la fin.,2016-07-12
+1243,600,544,4,Histoire intéressante mais style un peu lourd.,2018-03-24
+1244,467,13,3,,2022-11-03
+1245,319,762,1,Trop long à mon goût mais le fond est bon.,2017-05-18
+1246,784,402,4,"J'ai adoré les personnages, très bien construits.",2018-10-03
+1247,665,217,5,Impossible à lâcher ! Un vrai page-turner.,2019-06-02
+1248,664,248,3,Une œuvre marquante qui laisse une empreinte durable.,2024-10-22
+1249,373,1342,4,Histoire intéressante mais style un peu lourd.,2016-10-31
+1250,183,1178,4,,2017-02-21
+1251,253,1327,3,,2022-06-28
+1252,630,943,5,À mettre entre toutes les mains !,2015-12-23
+1253,83,1065,1,,2022-10-11
+1254,387,905,4,Une œuvre marquante qui laisse une empreinte durable.,2017-03-04
+1255,389,106,5,"Excellent livre, je le recommande vivement !",2024-09-17
+1256,608,1065,3,,2016-02-11
+1257,265,458,4,Histoire intéressante mais style un peu lourd.,2020-04-10
+1258,259,1238,3,Très instructif et bien documenté.,2020-05-19
+1259,400,1428,5,"Un chef-d'œuvre absolu, à lire absolument.",2023-01-08
+1260,518,856,2,"Très bien écrit, une lecture agréable.",2022-11-09
+1261,540,1363,4,Histoire intéressante mais style un peu lourd.,2023-02-26
+1262,324,1073,4,"Un chef-d'œuvre absolu, à lire absolument.",2015-11-29
+1263,634,849,4,,2015-10-03
+1264,711,916,5,"Magnifique, une écriture poétique et profonde.",2023-11-03
+1265,29,658,3,,2019-09-16
+1266,21,759,3,Histoire intéressante mais style un peu lourd.,2015-09-12
+1267,144,1287,5,"J'ai adoré les personnages, très bien construits.",2018-05-21
+1268,345,1273,4,"Une belle découverte, l'auteur a beaucoup de talent.",2019-10-01
+1269,587,658,4,"Très bien écrit, une lecture agréable.",2022-03-08
+1270,175,852,4,"Une belle découverte, l'auteur a beaucoup de talent.",2020-10-24
+1271,248,924,5,,2020-10-31
+1272,712,1413,3,Histoire intéressante mais style un peu lourd.,2016-03-22
+1273,176,484,5,Passionnant du début à la fin.,2021-07-15
+1274,735,354,3,À mettre entre toutes les mains !,2020-10-15
+1275,58,371,3,"Une belle découverte, l'auteur a beaucoup de talent.",2015-11-14
+1276,105,785,5,"Une belle découverte, l'auteur a beaucoup de talent.",2018-01-10
+1277,790,426,3,Histoire intéressante mais style un peu lourd.,2021-09-11
+1278,129,1054,5,"Une belle découverte, l'auteur a beaucoup de talent.",2022-11-10
+1279,57,316,3,"Magnifique, une écriture poétique et profonde.",2015-05-17
+1280,133,1075,5,,2019-04-07
+1281,3,1293,5,Une œuvre marquante qui laisse une empreinte durable.,2018-04-30
+1282,281,426,3,"Excellent livre, je le recommande vivement !",2017-01-13
+1283,666,769,5,À mettre entre toutes les mains !,2019-02-10
+1284,408,569,2,"Décevant, je m'attendais à mieux.",2021-08-23
+1285,561,1360,5,,2016-12-01
+1286,339,309,2,"J'ai adoré les personnages, très bien construits.",2015-12-28
+1287,276,1389,4,Passionnant du début à la fin.,2024-07-31
+1288,98,973,2,,2019-04-11
+1289,520,750,1,Très instructif et bien documenté.,2022-05-23
+1290,320,1098,4,"Magnifique, une écriture poétique et profonde.",2024-11-28
+1291,770,291,5,Passionnant du début à la fin.,2018-03-22
+1292,671,964,3,,2015-05-26
+1293,328,1484,5,"J'ai adoré les personnages, très bien construits.",2017-08-29
+1294,47,831,5,"Un chef-d'œuvre absolu, à lire absolument.",2021-11-15
+1295,18,9,3,"J'ai adoré les personnages, très bien construits.",2021-10-11
+1296,139,970,4,"Un chef-d'œuvre absolu, à lire absolument.",2018-01-02
+1297,53,1038,4,Trop long à mon goût mais le fond est bon.,2021-04-22
+1298,681,462,3,Passionnant du début à la fin.,2019-07-04
+1299,246,1043,4,"Plutôt moyen, rien d'exceptionnel.",2023-08-21
+1300,158,1140,3,Impossible à lâcher ! Un vrai page-turner.,2023-09-22
+1301,450,609,4,"Plutôt moyen, rien d'exceptionnel.",2015-06-23
+1302,45,708,5,"Un chef-d'œuvre absolu, à lire absolument.",2024-04-04
+1303,208,1075,1,À mettre entre toutes les mains !,2016-05-30
+1304,416,1290,4,Histoire intéressante mais style un peu lourd.,2015-02-11
+1305,312,516,4,"Excellent livre, je le recommande vivement !",2016-02-25
+1306,466,645,1,Une œuvre marquante qui laisse une empreinte durable.,2019-05-24
+1307,356,662,4,"Magnifique, une écriture poétique et profonde.",2023-05-21
+1308,40,1323,4,Trop long à mon goût mais le fond est bon.,2024-09-23
+1309,605,1018,5,À mettre entre toutes les mains !,2016-06-29
+1310,168,414,3,,2017-10-29
+1311,246,38,2,"Très bien écrit, une lecture agréable.",2021-06-09
+1312,108,77,5,"Une belle découverte, l'auteur a beaucoup de talent.",2024-05-25
+1313,104,505,4,Impossible à lâcher ! Un vrai page-turner.,2015-11-18
+1314,781,1376,5,,2018-05-18
+1315,736,302,5,"Décevant, je m'attendais à mieux.",2021-02-20
+1316,408,223,2,,2016-10-08
+1317,568,843,4,Très instructif et bien documenté.,2016-05-09
+1318,277,5,5,,2018-03-23
+1319,338,611,2,Impossible à lâcher ! Un vrai page-turner.,2016-10-01
+1320,175,589,3,,2022-10-02
+1321,135,1439,2,,2017-02-20
+1322,133,917,4,"Plutôt moyen, rien d'exceptionnel.",2022-05-24
+1323,689,330,3,"Excellent livre, je le recommande vivement !",2022-03-09
+1324,601,1001,4,"Un chef-d'œuvre absolu, à lire absolument.",2018-10-06
+1325,236,332,4,"Très bien écrit, une lecture agréable.",2022-02-18
+1326,497,842,3,À mettre entre toutes les mains !,2022-10-23
+1327,532,563,4,Trop long à mon goût mais le fond est bon.,2018-03-16
+1328,58,1101,5,Impossible à lâcher ! Un vrai page-turner.,2024-09-26
+1329,466,939,4,Trop long à mon goût mais le fond est bon.,2015-10-11
+1330,282,8,4,,2020-03-19
+1331,41,1224,2,"J'ai adoré les personnages, très bien construits.",2017-08-30
+1332,386,113,2,"J'ai adoré les personnages, très bien construits.",2016-05-14
+1333,739,685,4,"Décevant, je m'attendais à mieux.",2019-09-23
+1334,71,1004,5,"Un chef-d'œuvre absolu, à lire absolument.",2019-10-25
+1335,192,1204,2,Impossible à lâcher ! Un vrai page-turner.,2022-07-01
+1336,559,1172,4,"Une belle découverte, l'auteur a beaucoup de talent.",2017-03-11
+1337,557,1488,5,"Un chef-d'œuvre absolu, à lire absolument.",2020-08-20
+1338,160,132,3,,2016-10-17
+1339,170,382,5,Une œuvre marquante qui laisse une empreinte durable.,2017-07-02
+1340,202,1070,5,,2020-08-10
+1341,334,362,5,Impossible à lâcher ! Un vrai page-turner.,2015-04-25
+1342,395,297,4,,2021-07-07
+1343,723,597,5,"Excellent livre, je le recommande vivement !",2024-11-03
+1344,737,1408,2,"Très bien écrit, une lecture agréable.",2016-12-04
+1345,319,694,5,,2016-09-26
+1346,258,758,4,"Plutôt moyen, rien d'exceptionnel.",2022-06-18
+1347,661,1162,3,"J'ai adoré les personnages, très bien construits.",2024-10-21
+1348,715,1320,3,"J'ai adoré les personnages, très bien construits.",2016-10-02
+1349,711,1257,4,,2020-02-24
+1350,286,232,4,,2018-11-01
+1351,567,1490,5,"Un chef-d'œuvre absolu, à lire absolument.",2023-01-10
+1352,535,916,4,Passionnant du début à la fin.,2023-11-01
+1353,640,164,5,Impossible à lâcher ! Un vrai page-turner.,2015-03-30
+1354,349,497,5,À mettre entre toutes les mains !,2018-01-02
+1355,349,1150,4,"Excellent livre, je le recommande vivement !",2020-09-14
+1356,717,380,3,"Décevant, je m'attendais à mieux.",2017-07-10
+1357,187,1430,4,,2020-05-28
+1358,5,1146,4,"Plutôt moyen, rien d'exceptionnel.",2019-11-20
+1359,618,622,4,"Magnifique, une écriture poétique et profonde.",2020-02-13
+1360,292,956,5,"Décevant, je m'attendais à mieux.",2023-05-02
+1361,635,201,3,Passionnant du début à la fin.,2022-04-01
+1362,390,744,1,Trop long à mon goût mais le fond est bon.,2021-05-29
+1363,140,1362,5,Une œuvre marquante qui laisse une empreinte durable.,2022-05-29
+1364,1,354,3,,2022-08-30
+1365,378,1301,4,"Magnifique, une écriture poétique et profonde.",2016-02-28
+1366,114,1368,2,Passionnant du début à la fin.,2018-12-25
+1367,757,841,3,"Très bien écrit, une lecture agréable.",2016-08-08
+1368,433,1352,4,"Magnifique, une écriture poétique et profonde.",2020-09-09
+1369,27,1326,5,"Excellent livre, je le recommande vivement !",2023-04-15
+1370,321,1165,4,"Un chef-d'œuvre absolu, à lire absolument.",2017-03-31
+1371,435,547,3,Très instructif et bien documenté.,2018-08-23
+1372,778,407,5,,2019-10-28
+1373,328,555,5,"Décevant, je m'attendais à mieux.",2019-07-30
+1374,650,138,3,Une œuvre marquante qui laisse une empreinte durable.,2015-08-29
+1375,713,1364,5,Une œuvre marquante qui laisse une empreinte durable.,2017-04-30
+1376,490,146,3,À mettre entre toutes les mains !,2017-12-27
+1377,195,246,1,,2022-07-31
+1378,422,1093,3,Impossible à lâcher ! Un vrai page-turner.,2023-04-08
+1379,374,494,5,À mettre entre toutes les mains !,2017-02-02
+1380,168,745,3,Trop long à mon goût mais le fond est bon.,2018-02-03
+1381,601,910,3,"Excellent livre, je le recommande vivement !",2019-11-17
+1382,449,1333,4,Histoire intéressante mais style un peu lourd.,2016-10-30
+1383,519,848,4,"Excellent livre, je le recommande vivement !",2020-03-26
+1384,675,62,4,,2015-06-12
+1385,750,142,5,,2018-04-20
+1386,297,1073,5,Impossible à lâcher ! Un vrai page-turner.,2022-03-07
+1387,305,264,2,"Une belle découverte, l'auteur a beaucoup de talent.",2018-06-13
+1388,734,1201,4,,2017-11-15
+1389,599,143,5,Très instructif et bien documenté.,2023-02-09
+1390,64,900,3,,2015-10-20
+1391,750,601,5,,2015-05-07
+1392,291,1165,4,,2019-08-24
+1393,297,116,5,,2015-10-28
+1394,61,939,1,"Magnifique, une écriture poétique et profonde.",2017-04-27
+1395,77,60,5,"Excellent livre, je le recommande vivement !",2017-06-07
+1396,91,747,5,"Plutôt moyen, rien d'exceptionnel.",2018-07-20
+1397,40,793,4,"Une belle découverte, l'auteur a beaucoup de talent.",2024-01-31
+1398,367,1327,2,,2020-11-09
+1399,234,708,5,"Excellent livre, je le recommande vivement !",2021-05-10
+1400,360,247,3,,2020-02-19
+1401,486,106,4,,2023-09-24
+1402,236,1106,4,,2018-10-03
+1403,126,241,2,"Décevant, je m'attendais à mieux.",2024-09-13
+1404,743,965,5,Très instructif et bien documenté.,2019-02-23
+1405,632,395,3,,2016-03-06
+1406,663,864,5,,2017-11-09
+1407,715,1022,3,"Un chef-d'œuvre absolu, à lire absolument.",2016-05-12
+1408,716,74,4,"Très bien écrit, une lecture agréable.",2017-02-04
+1409,150,15,4,"Excellent livre, je le recommande vivement !",2021-02-13
+1410,664,628,3,"Décevant, je m'attendais à mieux.",2018-05-16
+1411,21,1124,4,"Excellent livre, je le recommande vivement !",2023-04-18
+1412,625,878,4,,2023-08-03
+1413,236,481,4,,2015-03-03
+1414,597,1342,4,"Très bien écrit, une lecture agréable.",2024-05-05
+1415,605,202,5,Histoire intéressante mais style un peu lourd.,2023-08-31
+1416,61,53,5,"Plutôt moyen, rien d'exceptionnel.",2016-04-13
+1417,169,1473,5,À mettre entre toutes les mains !,2016-03-29
+1418,602,278,4,"Magnifique, une écriture poétique et profonde.",2017-01-26
+1419,529,1067,4,À mettre entre toutes les mains !,2015-11-11
+1420,344,1455,4,Impossible à lâcher ! Un vrai page-turner.,2016-09-06
+1421,365,543,4,Passionnant du début à la fin.,2024-03-16
+1422,46,305,4,"Décevant, je m'attendais à mieux.",2020-05-16
+1423,249,1091,5,Impossible à lâcher ! Un vrai page-turner.,2024-07-30
+1424,404,896,5,"J'ai adoré les personnages, très bien construits.",2015-12-07
+1425,39,685,2,Impossible à lâcher ! Un vrai page-turner.,2022-03-08
+1426,748,278,4,Une œuvre marquante qui laisse une empreinte durable.,2018-01-15
+1427,194,40,5,"Une belle découverte, l'auteur a beaucoup de talent.",2021-12-04
+1428,530,479,4,"Plutôt moyen, rien d'exceptionnel.",2015-09-30
+1429,12,1011,1,"Décevant, je m'attendais à mieux.",2017-10-26
+1430,56,1031,4,Passionnant du début à la fin.,2015-12-07
+1431,734,1423,5,À mettre entre toutes les mains !,2023-07-19
+1432,100,728,4,,2021-04-20
+1433,185,1376,3,"Très bien écrit, une lecture agréable.",2024-04-17
+1434,728,794,4,,2020-01-02
+1435,155,1208,5,"Très bien écrit, une lecture agréable.",2022-08-14
+1436,144,782,4,"Excellent livre, je le recommande vivement !",2024-11-20
+1437,699,1152,5,Impossible à lâcher ! Un vrai page-turner.,2019-09-30
+1438,795,227,5,"Excellent livre, je le recommande vivement !",2021-03-21
+1439,278,4,4,À mettre entre toutes les mains !,2021-05-15
+1440,185,1349,4,"Une belle découverte, l'auteur a beaucoup de talent.",2019-05-21
+1441,496,444,5,,2020-12-05
+1442,428,469,5,Une œuvre marquante qui laisse une empreinte durable.,2021-07-16
+1443,610,1328,5,,2019-05-21
+1444,720,829,4,"Excellent livre, je le recommande vivement !",2023-11-19
+1445,734,698,4,"Excellent livre, je le recommande vivement !",2022-04-10
+1446,38,696,5,,2021-10-28
+1447,55,1124,3,Impossible à lâcher ! Un vrai page-turner.,2017-02-04
+1448,370,99,4,"Plutôt moyen, rien d'exceptionnel.",2024-04-20
+1449,37,720,5,"J'ai adoré les personnages, très bien construits.",2019-11-01
+1450,303,639,5,À mettre entre toutes les mains !,2018-03-25
+1451,794,139,5,Trop long à mon goût mais le fond est bon.,2015-09-27
+1452,402,99,4,Impossible à lâcher ! Un vrai page-turner.,2022-02-16
+1453,770,1197,4,,2019-06-23
+1454,95,1191,2,"Très bien écrit, une lecture agréable.",2023-04-28
+1455,318,1252,5,"Une belle découverte, l'auteur a beaucoup de talent.",2020-11-07
+1456,270,1250,1,,2016-01-19
+1457,461,907,3,À mettre entre toutes les mains !,2016-01-19
+1458,122,980,4,"Excellent livre, je le recommande vivement !",2022-10-09
+1459,684,84,3,Passionnant du début à la fin.,2022-03-13
+1460,204,216,3,"Magnifique, une écriture poétique et profonde.",2022-06-16
+1461,136,364,4,,2021-01-14
+1462,254,1145,4,Impossible à lâcher ! Un vrai page-turner.,2015-08-30
+1463,219,870,4,"Une belle découverte, l'auteur a beaucoup de talent.",2024-07-14
+1464,369,811,4,"Un chef-d'œuvre absolu, à lire absolument.",2023-08-29
+1465,333,154,5,"Magnifique, une écriture poétique et profonde.",2022-11-01
+1466,506,583,3,"Une belle découverte, l'auteur a beaucoup de talent.",2015-01-05
+1467,531,215,3,"Excellent livre, je le recommande vivement !",2023-07-21
+1468,733,53,3,Une œuvre marquante qui laisse une empreinte durable.,2015-01-09
+1469,119,7,3,,2024-09-14
+1470,6,1030,3,"J'ai adoré les personnages, très bien construits.",2016-02-01
+1471,787,830,1,"Excellent livre, je le recommande vivement !",2021-06-20
+1472,476,712,4,Très instructif et bien documenté.,2023-12-08
+1473,363,234,5,Impossible à lâcher ! Un vrai page-turner.,2015-03-17
+1474,511,812,3,Impossible à lâcher ! Un vrai page-turner.,2015-07-16
+1475,288,458,5,"Magnifique, une écriture poétique et profonde.",2022-12-02
+1476,409,1470,2,"Décevant, je m'attendais à mieux.",2016-05-27
+1477,707,346,5,"J'ai adoré les personnages, très bien construits.",2019-12-24
+1478,136,884,2,Très instructif et bien documenté.,2022-04-08
+1479,39,347,5,,2024-07-10
+1480,185,1072,4,Trop long à mon goût mais le fond est bon.,2018-12-27
+1481,739,679,4,À mettre entre toutes les mains !,2020-12-12
+1482,602,650,4,Trop long à mon goût mais le fond est bon.,2017-10-21
+1483,640,1180,5,"Magnifique, une écriture poétique et profonde.",2021-07-24
+1484,461,563,4,"Très bien écrit, une lecture agréable.",2020-12-20
+1485,44,361,3,"Une belle découverte, l'auteur a beaucoup de talent.",2019-08-09
+1486,87,1309,3,À mettre entre toutes les mains !,2023-01-12
+1487,230,1372,4,"Un chef-d'œuvre absolu, à lire absolument.",2019-03-28
+1488,790,1320,4,Une œuvre marquante qui laisse une empreinte durable.,2015-09-11
+1489,525,675,4,À mettre entre toutes les mains !,2020-03-31
+1490,618,627,4,"Très bien écrit, une lecture agréable.",2020-12-05
+1491,733,447,4,,2021-06-02
+1492,17,27,3,"Décevant, je m'attendais à mieux.",2022-03-15
+1493,499,1101,5,Une œuvre marquante qui laisse une empreinte durable.,2017-04-10
+1494,303,819,5,Passionnant du début à la fin.,2015-10-12
+1495,164,229,5,Trop long à mon goût mais le fond est bon.,2023-03-31
+1496,5,1072,5,"Très bien écrit, une lecture agréable.",2015-03-22
+1497,388,875,5,Impossible à lâcher ! Un vrai page-turner.,2019-12-31
+1498,515,1388,3,À mettre entre toutes les mains !,2019-02-22
+1499,432,739,4,"Un chef-d'œuvre absolu, à lire absolument.",2021-03-30
+1500,338,514,5,"Magnifique, une écriture poétique et profonde.",2022-05-23
+1501,308,1479,3,À mettre entre toutes les mains !,2017-08-10
+1502,589,1128,4,"J'ai adoré les personnages, très bien construits.",2017-03-24
+1503,765,520,4,Trop long à mon goût mais le fond est bon.,2021-10-04
+1504,774,47,4,Histoire intéressante mais style un peu lourd.,2021-10-22
+1505,544,802,5,,2022-12-22
+1506,415,678,5,,2021-03-26
+1507,727,457,5,"J'ai adoré les personnages, très bien construits.",2017-04-04
+1508,23,982,1,Très instructif et bien documenté.,2016-03-03
+1509,633,87,5,À mettre entre toutes les mains !,2020-07-25
+1510,529,871,5,,2015-09-12
+1511,528,1456,5,"J'ai adoré les personnages, très bien construits.",2017-09-04
+1512,284,653,2,"Décevant, je m'attendais à mieux.",2021-10-05
+1513,662,516,3,"Plutôt moyen, rien d'exceptionnel.",2017-05-04
+1514,205,1017,4,,2022-04-18
+1515,504,1451,3,"Excellent livre, je le recommande vivement !",2020-02-19
+1516,316,456,4,,2024-03-15
+1517,205,1219,4,"Magnifique, une écriture poétique et profonde.",2022-12-22
+1518,57,908,4,Une œuvre marquante qui laisse une empreinte durable.,2018-09-25
+1519,343,2,1,À mettre entre toutes les mains !,2018-07-29
+1520,496,1305,4,À mettre entre toutes les mains !,2015-09-02
+1521,668,451,4,"Un chef-d'œuvre absolu, à lire absolument.",2019-05-13
+1522,70,552,3,Histoire intéressante mais style un peu lourd.,2015-12-13
+1523,365,191,5,"Décevant, je m'attendais à mieux.",2021-11-27
+1524,324,895,4,,2018-02-01
+1525,521,1415,3,"Magnifique, une écriture poétique et profonde.",2017-09-18
+1526,427,618,4,,2020-11-30
+1527,166,1425,4,"Une belle découverte, l'auteur a beaucoup de talent.",2020-04-25
+1528,208,124,5,,2024-10-05
+1529,401,61,2,Très instructif et bien documenté.,2015-12-19
+1530,610,774,3,"Excellent livre, je le recommande vivement !",2015-09-09
+1531,746,1205,3,"Plutôt moyen, rien d'exceptionnel.",2023-11-11
+1532,208,1387,3,"J'ai adoré les personnages, très bien construits.",2019-10-14
+1533,130,914,4,"Plutôt moyen, rien d'exceptionnel.",2020-04-24
+1534,490,981,4,"Décevant, je m'attendais à mieux.",2017-07-08
+1535,305,965,5,"Très bien écrit, une lecture agréable.",2024-12-07
+1536,198,926,3,Très instructif et bien documenté.,2016-06-07
+1537,545,1327,5,Passionnant du début à la fin.,2023-12-12
+1538,661,884,5,,2017-07-01
+1539,684,771,4,"Une belle découverte, l'auteur a beaucoup de talent.",2019-02-23
+1540,780,516,3,"Excellent livre, je le recommande vivement !",2017-08-17
+1541,798,625,4,Très instructif et bien documenté.,2021-06-02
+1542,253,1240,4,Passionnant du début à la fin.,2017-08-28
+1543,409,1345,3,"Décevant, je m'attendais à mieux.",2022-09-10
+1544,51,1185,3,,2017-11-18
+1545,267,1014,5,"J'ai adoré les personnages, très bien construits.",2022-12-12
+1546,716,412,4,À mettre entre toutes les mains !,2024-07-30
+1547,12,140,5,"Une belle découverte, l'auteur a beaucoup de talent.",2019-04-27
+1548,792,1416,5,,2020-01-02
+1549,64,559,5,Passionnant du début à la fin.,2023-02-08
+1550,151,1064,4,Passionnant du début à la fin.,2023-08-18
+1551,707,1061,3,"Magnifique, une écriture poétique et profonde.",2023-09-23
+1552,273,461,1,Impossible à lâcher ! Un vrai page-turner.,2022-09-23
+1553,679,955,5,Passionnant du début à la fin.,2018-06-26
+1554,277,362,5,,2021-11-25
+1555,788,532,5,"Excellent livre, je le recommande vivement !",2018-05-20
+1556,716,869,4,À mettre entre toutes les mains !,2024-12-23
+1557,643,1270,5,Impossible à lâcher ! Un vrai page-turner.,2015-07-11
+1558,553,1459,4,,2024-06-05
+1559,262,1346,3,,2019-12-04
+1560,477,213,2,"Une belle découverte, l'auteur a beaucoup de talent.",2017-03-03
+1561,492,1100,2,"Très bien écrit, une lecture agréable.",2024-05-29
+1562,414,322,2,Trop long à mon goût mais le fond est bon.,2020-04-24
+1563,88,481,5,"Un chef-d'œuvre absolu, à lire absolument.",2015-09-16
+1564,299,42,4,"J'ai adoré les personnages, très bien construits.",2015-11-05
+1565,583,1415,5,Trop long à mon goût mais le fond est bon.,2024-09-21
+1566,794,1472,2,,2023-05-17
+1567,691,1354,4,"Plutôt moyen, rien d'exceptionnel.",2023-02-09
+1568,592,1317,5,"J'ai adoré les personnages, très bien construits.",2019-05-30
+1569,177,156,4,,2020-03-17
+1570,584,1289,4,,2020-07-16
+1571,415,1336,5,Trop long à mon goût mais le fond est bon.,2019-12-08
+1572,44,1407,4,"Une belle découverte, l'auteur a beaucoup de talent.",2016-01-12
+1573,654,549,4,"Une belle découverte, l'auteur a beaucoup de talent.",2021-11-02
+1574,145,684,4,"Décevant, je m'attendais à mieux.",2017-02-26
+1575,324,310,4,,2015-04-17
+1576,636,388,3,,2023-09-19
+1577,453,490,3,Histoire intéressante mais style un peu lourd.,2020-05-13
+1578,775,197,5,Passionnant du début à la fin.,2020-10-22
+1579,191,371,5,Une œuvre marquante qui laisse une empreinte durable.,2021-05-06
+1580,342,173,4,"Excellent livre, je le recommande vivement !",2020-01-22
+1581,27,891,4,"Magnifique, une écriture poétique et profonde.",2021-10-17
+1582,203,240,3,Trop long à mon goût mais le fond est bon.,2024-09-07
+1583,305,641,3,,2019-06-28
+1584,304,331,3,Une œuvre marquante qui laisse une empreinte durable.,2017-07-02
+1585,370,502,3,À mettre entre toutes les mains !,2023-02-15
+1586,180,182,1,,2018-05-13
+1587,715,827,4,Impossible à lâcher ! Un vrai page-turner.,2015-10-10
+1588,300,1187,4,Une œuvre marquante qui laisse une empreinte durable.,2021-05-27
+1589,782,920,4,À mettre entre toutes les mains !,2024-01-10
+1590,492,4,4,À mettre entre toutes les mains !,2016-05-30
+1591,379,1131,3,,2017-12-24
+1592,222,676,3,"J'ai adoré les personnages, très bien construits.",2024-09-09
+1593,198,812,5,"Plutôt moyen, rien d'exceptionnel.",2022-09-12
+1594,236,895,4,"Magnifique, une écriture poétique et profonde.",2024-07-20
+1595,308,1371,3,Impossible à lâcher ! Un vrai page-turner.,2020-09-10
+1596,120,63,4,"Un chef-d'œuvre absolu, à lire absolument.",2023-06-06
+1597,136,845,5,Impossible à lâcher ! Un vrai page-turner.,2016-07-25
+1598,649,56,4,"Excellent livre, je le recommande vivement !",2018-01-30
+1599,144,1189,3,Une œuvre marquante qui laisse une empreinte durable.,2016-07-28
+1600,775,157,2,Histoire intéressante mais style un peu lourd.,2020-01-05
+1601,269,436,4,Passionnant du début à la fin.,2015-07-25
+1602,442,1234,4,"Décevant, je m'attendais à mieux.",2015-09-02
+1603,590,1186,5,"Décevant, je m'attendais à mieux.",2024-10-23
+1604,122,194,2,,2020-09-26
+1605,155,1482,4,Impossible à lâcher ! Un vrai page-turner.,2023-06-27
+1606,611,84,2,Très instructif et bien documenté.,2022-06-22
+1607,800,1388,5,Histoire intéressante mais style un peu lourd.,2020-06-30
+1608,437,162,4,"Excellent livre, je le recommande vivement !",2023-02-09
+1609,644,796,4,"Excellent livre, je le recommande vivement !",2018-06-25
+1610,745,64,1,"Magnifique, une écriture poétique et profonde.",2022-10-25
+1611,277,861,4,,2022-11-10
+1612,788,411,2,Histoire intéressante mais style un peu lourd.,2017-05-15
+1613,247,853,1,Histoire intéressante mais style un peu lourd.,2017-03-13
+1614,191,210,5,,2018-11-10
+1615,273,1177,3,"Magnifique, une écriture poétique et profonde.",2022-04-02
+1616,639,267,4,"Une belle découverte, l'auteur a beaucoup de talent.",2021-09-04
+1617,754,221,4,"J'ai adoré les personnages, très bien construits.",2021-12-20
+1618,674,97,4,,2019-04-03
+1619,300,135,4,À mettre entre toutes les mains !,2021-05-19
+1620,132,38,5,Impossible à lâcher ! Un vrai page-turner.,2018-05-24
+1621,556,1300,3,"J'ai adoré les personnages, très bien construits.",2021-05-23
+1622,28,153,4,"Très bien écrit, une lecture agréable.",2023-06-25
+1623,85,697,5,"Un chef-d'œuvre absolu, à lire absolument.",2023-04-27
+1624,427,37,4,Impossible à lâcher ! Un vrai page-turner.,2018-05-11
+1625,373,1294,5,,2017-12-28
+1626,623,1010,3,,2024-07-14
+1627,598,848,1,,2017-03-15
+1628,343,413,5,Très instructif et bien documenté.,2015-04-29
+1629,368,452,3,Trop long à mon goût mais le fond est bon.,2023-05-10
+1630,177,632,4,"Plutôt moyen, rien d'exceptionnel.",2023-04-28
+1631,576,1325,5,"Plutôt moyen, rien d'exceptionnel.",2015-03-13
+1632,308,1221,4,Histoire intéressante mais style un peu lourd.,2021-03-08
+1633,718,677,3,"Très bien écrit, une lecture agréable.",2022-08-30
+1634,415,1168,5,,2018-03-04
+1635,33,682,5,"Une belle découverte, l'auteur a beaucoup de talent.",2023-06-27
+1636,689,593,2,Impossible à lâcher ! Un vrai page-turner.,2017-04-19
+1637,379,408,4,"Un chef-d'œuvre absolu, à lire absolument.",2020-10-02
+1638,660,1187,2,Très instructif et bien documenté.,2019-06-28
+1639,510,903,4,"Magnifique, une écriture poétique et profonde.",2019-01-15
+1640,159,149,5,Passionnant du début à la fin.,2022-08-02
+1641,517,776,4,Histoire intéressante mais style un peu lourd.,2022-10-17
+1642,194,1242,3,"Excellent livre, je le recommande vivement !",2023-11-22
+1643,528,1387,4,"Décevant, je m'attendais à mieux.",2018-08-30
+1644,793,1106,5,"Plutôt moyen, rien d'exceptionnel.",2023-11-13
+1645,205,1247,5,"Excellent livre, je le recommande vivement !",2017-02-24
+1646,490,49,3,Très instructif et bien documenté.,2015-12-05
+1647,158,106,4,"Plutôt moyen, rien d'exceptionnel.",2019-08-05
+1648,581,1316,4,"Un chef-d'œuvre absolu, à lire absolument.",2022-10-05
+1649,64,936,3,"Plutôt moyen, rien d'exceptionnel.",2015-11-15
+1650,194,525,5,Passionnant du début à la fin.,2022-10-02
+1651,670,241,5,,2015-08-23
+1652,762,148,4,Une œuvre marquante qui laisse une empreinte durable.,2022-12-16
+1653,396,154,4,,2015-06-02
+1654,283,1055,5,"Magnifique, une écriture poétique et profonde.",2016-03-23
+1655,742,277,4,"Plutôt moyen, rien d'exceptionnel.",2016-02-29
+1656,9,1486,4,"Décevant, je m'attendais à mieux.",2018-07-27
+1657,335,510,4,Passionnant du début à la fin.,2024-06-10
+1658,370,884,2,"J'ai adoré les personnages, très bien construits.",2016-09-28
+1659,680,1468,5,Impossible à lâcher ! Un vrai page-turner.,2021-01-29
+1660,457,126,2,Impossible à lâcher ! Un vrai page-turner.,2017-02-20
+1661,678,265,2,,2017-11-13
+1662,111,1017,5,,2016-01-30
+1663,316,1055,5,,2023-05-31
+1664,721,78,4,"J'ai adoré les personnages, très bien construits.",2023-06-29
+1665,139,1387,4,,2016-05-20
+1666,398,846,5,"Plutôt moyen, rien d'exceptionnel.",2015-12-27
+1667,720,1305,2,,2016-11-05
+1668,727,425,3,"Très bien écrit, une lecture agréable.",2019-09-16
+1669,466,1188,5,Passionnant du début à la fin.,2022-01-06
+1670,400,1333,4,"Un chef-d'œuvre absolu, à lire absolument.",2021-02-24
+1671,745,1326,5,Trop long à mon goût mais le fond est bon.,2020-08-30
+1672,315,204,3,Trop long à mon goût mais le fond est bon.,2024-12-28
+1673,174,359,5,,2020-06-16
+1674,271,1357,4,,2017-03-29
+1675,525,1381,5,Très instructif et bien documenté.,2022-03-09
+1676,14,702,5,Impossible à lâcher ! Un vrai page-turner.,2023-07-24
+1677,747,554,3,Trop long à mon goût mais le fond est bon.,2021-02-03
+1678,237,814,3,"Une belle découverte, l'auteur a beaucoup de talent.",2017-01-03
+1679,88,54,5,"Une belle découverte, l'auteur a beaucoup de talent.",2018-03-20
+1680,126,104,5,"Très bien écrit, une lecture agréable.",2018-12-03
+1681,759,944,5,À mettre entre toutes les mains !,2024-05-22
+1682,768,173,4,"Plutôt moyen, rien d'exceptionnel.",2018-07-01
+1683,608,732,5,"Décevant, je m'attendais à mieux.",2021-12-25
+1684,435,525,3,"Décevant, je m'attendais à mieux.",2016-01-29
+1685,496,407,2,Histoire intéressante mais style un peu lourd.,2023-09-18
+1686,538,983,5,Impossible à lâcher ! Un vrai page-turner.,2020-12-30
+1687,62,1359,3,Impossible à lâcher ! Un vrai page-turner.,2015-11-08
+1688,659,940,5,Très instructif et bien documenté.,2016-03-11
+1689,670,1327,3,"Excellent livre, je le recommande vivement !",2018-07-03
+1690,641,688,5,"Très bien écrit, une lecture agréable.",2017-09-27
+1691,110,596,4,Trop long à mon goût mais le fond est bon.,2016-07-15
+1692,739,764,3,"J'ai adoré les personnages, très bien construits.",2016-07-21
+1693,288,134,3,,2016-04-08
+1694,216,135,3,Histoire intéressante mais style un peu lourd.,2017-01-27
+1695,86,578,3,"Plutôt moyen, rien d'exceptionnel.",2022-08-08
+1696,694,57,5,"Magnifique, une écriture poétique et profonde.",2021-12-02
+1697,142,273,5,"Excellent livre, je le recommande vivement !",2022-05-29
+1698,130,876,2,"Une belle découverte, l'auteur a beaucoup de talent.",2019-06-25
+1699,638,1333,4,"Plutôt moyen, rien d'exceptionnel.",2020-01-17
+1700,713,377,4,Trop long à mon goût mais le fond est bon.,2022-04-08
+1701,799,627,2,"Excellent livre, je le recommande vivement !",2024-07-30
+1702,459,1416,4,Impossible à lâcher ! Un vrai page-turner.,2019-04-07
+1703,463,344,5,"Un chef-d'œuvre absolu, à lire absolument.",2017-06-10
+1704,579,842,4,"Une belle découverte, l'auteur a beaucoup de talent.",2016-04-08
+1705,109,1262,5,"Excellent livre, je le recommande vivement !",2022-05-19
+1706,800,730,4,,2016-01-25
+1707,68,295,5,"Une belle découverte, l'auteur a beaucoup de talent.",2024-02-19
+1708,9,1500,3,,2022-11-05
+1709,379,1168,5,À mettre entre toutes les mains !,2016-07-20
+1710,216,1131,2,"Un chef-d'œuvre absolu, à lire absolument.",2016-04-02
+1711,417,153,4,Une œuvre marquante qui laisse une empreinte durable.,2021-12-20
+1712,681,966,3,"J'ai adoré les personnages, très bien construits.",2019-08-20
+1713,597,997,1,,2021-10-08
+1714,540,1470,4,Très instructif et bien documenté.,2016-03-26
+1715,121,758,4,"Décevant, je m'attendais à mieux.",2017-09-09
+1716,597,123,5,Passionnant du début à la fin.,2022-04-04
+1717,378,1057,4,,2018-05-19
+1718,134,431,4,,2024-06-04
+1719,310,695,5,Histoire intéressante mais style un peu lourd.,2022-12-23
+1720,386,1190,5,Très instructif et bien documenté.,2018-02-25
+1721,473,1325,4,"Excellent livre, je le recommande vivement !",2020-10-27
+1722,687,48,4,"Magnifique, une écriture poétique et profonde.",2015-09-26
+1723,70,1020,4,Histoire intéressante mais style un peu lourd.,2015-07-21
+1724,62,320,5,Très instructif et bien documenté.,2020-09-15
+1725,617,524,3,"Un chef-d'œuvre absolu, à lire absolument.",2019-12-14
+1726,623,420,4,"Excellent livre, je le recommande vivement !",2018-03-19
+1727,317,1104,5,À mettre entre toutes les mains !,2020-02-22
+1728,120,245,4,,2015-10-05
+1729,539,346,5,"Magnifique, une écriture poétique et profonde.",2017-06-21
+1730,303,913,4,"Une belle découverte, l'auteur a beaucoup de talent.",2020-10-22
+1731,759,598,4,,2017-08-20
+1732,709,497,4,"Magnifique, une écriture poétique et profonde.",2020-10-16
+1733,533,215,3,Une œuvre marquante qui laisse une empreinte durable.,2018-03-12
+1734,124,438,5,Très instructif et bien documenté.,2024-10-21
+1735,649,721,3,"Une belle découverte, l'auteur a beaucoup de talent.",2022-02-21
+1736,31,1483,4,"Excellent livre, je le recommande vivement !",2020-05-04
+1737,453,1315,2,"Magnifique, une écriture poétique et profonde.",2019-03-09
+1738,346,432,1,,2020-06-09
+1739,201,213,5,"Décevant, je m'attendais à mieux.",2020-04-12
+1740,177,720,4,,2017-01-21
+1741,589,1283,4,À mettre entre toutes les mains !,2016-06-04
+1742,265,108,4,"Magnifique, une écriture poétique et profonde.",2022-01-10
+1743,167,669,5,,2020-04-05
+1744,296,1300,4,"Décevant, je m'attendais à mieux.",2022-04-16
+1745,414,631,5,À mettre entre toutes les mains !,2018-01-09
+1746,222,897,3,"Décevant, je m'attendais à mieux.",2023-10-09
+1747,158,49,3,,2015-10-26
+1748,4,857,3,"Excellent livre, je le recommande vivement !",2020-02-18
+1749,166,771,3,Une œuvre marquante qui laisse une empreinte durable.,2024-10-28
+1750,704,219,5,Trop long à mon goût mais le fond est bon.,2015-07-12
+1751,638,843,4,"Décevant, je m'attendais à mieux.",2019-03-12
+1752,35,113,4,"Très bien écrit, une lecture agréable.",2023-03-29
+1753,587,702,4,Impossible à lâcher ! Un vrai page-turner.,2017-03-10
+1754,184,122,4,,2023-03-03
+1755,356,86,4,"J'ai adoré les personnages, très bien construits.",2022-01-17
+1756,117,1379,5,"J'ai adoré les personnages, très bien construits.",2021-01-24
+1757,533,520,3,"Un chef-d'œuvre absolu, à lire absolument.",2019-06-14
+1758,257,1189,5,,2023-05-01
+1759,28,69,5,"Excellent livre, je le recommande vivement !",2021-01-11
+1760,584,769,4,Histoire intéressante mais style un peu lourd.,2015-08-28
+1761,422,295,3,,2024-05-19
+1762,372,246,4,Passionnant du début à la fin.,2016-05-25
+1763,617,771,4,"J'ai adoré les personnages, très bien construits.",2021-06-19
+1764,418,57,3,"Un chef-d'œuvre absolu, à lire absolument.",2015-11-27
+1765,278,1391,5,"Décevant, je m'attendais à mieux.",2017-01-05
+1766,34,1015,5,"Un chef-d'œuvre absolu, à lire absolument.",2015-11-19
+1767,702,93,5,"Décevant, je m'attendais à mieux.",2016-08-10
+1768,575,956,3,Impossible à lâcher ! Un vrai page-turner.,2024-10-05
+1769,341,1038,4,"Une belle découverte, l'auteur a beaucoup de talent.",2018-04-15
+1770,169,1108,5,,2020-06-14
+1771,793,803,5,"Une belle découverte, l'auteur a beaucoup de talent.",2022-06-27
+1772,543,923,5,Très instructif et bien documenté.,2024-10-25
+1773,529,118,2,,2017-04-26
+1774,34,1338,4,Impossible à lâcher ! Un vrai page-turner.,2016-09-08
+1775,213,1085,3,"Décevant, je m'attendais à mieux.",2016-08-28
+1776,216,954,4,,2018-03-19
+1777,537,62,4,"Décevant, je m'attendais à mieux.",2017-12-17
+1778,286,1127,4,Histoire intéressante mais style un peu lourd.,2019-08-06
+1779,36,571,5,À mettre entre toutes les mains !,2016-11-24
+1780,429,215,4,Passionnant du début à la fin.,2022-01-28
+1781,319,266,4,"Magnifique, une écriture poétique et profonde.",2021-08-05
+1782,585,961,2,,2024-11-29
+1783,305,1373,4,Impossible à lâcher ! Un vrai page-turner.,2024-04-19
+1784,763,72,3,"Très bien écrit, une lecture agréable.",2015-07-26
+1785,153,1251,5,"Magnifique, une écriture poétique et profonde.",2022-04-13
+1786,376,540,3,"Excellent livre, je le recommande vivement !",2023-07-01
+1787,272,407,4,"Décevant, je m'attendais à mieux.",2021-12-06
+1788,677,849,4,Passionnant du début à la fin.,2015-02-13
+1789,211,659,4,"Décevant, je m'attendais à mieux.",2017-08-31
+1790,462,383,5,"Magnifique, une écriture poétique et profonde.",2018-01-04
+1791,791,667,5,"Excellent livre, je le recommande vivement !",2018-04-19
+1792,551,732,5,,2021-08-26
+1793,33,829,3,"Un chef-d'œuvre absolu, à lire absolument.",2016-12-21
+1794,191,1379,4,Très instructif et bien documenté.,2016-04-17
+1795,79,1007,4,,2018-11-24
+1796,618,1457,3,Très instructif et bien documenté.,2021-07-10
+1797,80,831,4,Très instructif et bien documenté.,2016-08-20
+1798,134,1243,2,"Plutôt moyen, rien d'exceptionnel.",2017-11-19
+1799,73,1131,4,"Une belle découverte, l'auteur a beaucoup de talent.",2019-05-18
+1800,89,1004,4,"Décevant, je m'attendais à mieux.",2016-10-16
+1801,686,530,5,Une œuvre marquante qui laisse une empreinte durable.,2020-11-03
+1802,533,483,4,,2021-07-25
+1803,574,443,3,"Excellent livre, je le recommande vivement !",2020-10-05
+1804,206,399,4,Une œuvre marquante qui laisse une empreinte durable.,2022-02-16
+1805,116,721,5,Une œuvre marquante qui laisse une empreinte durable.,2019-05-13
+1806,425,1070,4,"Excellent livre, je le recommande vivement !",2021-01-29
+1807,23,986,4,"Un chef-d'œuvre absolu, à lire absolument.",2015-07-28
+1808,26,102,3,,2019-02-02
+1809,14,1262,3,Une œuvre marquante qui laisse une empreinte durable.,2015-03-06
+1810,288,964,5,"Plutôt moyen, rien d'exceptionnel.",2015-05-27
+1811,241,455,4,,2016-08-04
+1812,699,229,3,"Une belle découverte, l'auteur a beaucoup de talent.",2024-03-29
+1813,181,1022,5,"Décevant, je m'attendais à mieux.",2022-01-28
+1814,148,1404,4,"Plutôt moyen, rien d'exceptionnel.",2021-12-23
+1815,286,1169,3,,2024-03-25
+1816,427,258,4,Très instructif et bien documenté.,2017-10-06
+1817,405,1498,4,"Un chef-d'œuvre absolu, à lire absolument.",2016-08-01
+1818,771,634,1,Très instructif et bien documenté.,2020-10-10
+1819,88,1264,5,"Très bien écrit, une lecture agréable.",2022-01-27
+1820,684,853,5,"Excellent livre, je le recommande vivement !",2021-08-11
+1821,519,64,4,"Excellent livre, je le recommande vivement !",2017-12-12
+1822,20,1280,3,"Décevant, je m'attendais à mieux.",2019-11-28
+1823,151,551,5,"Décevant, je m'attendais à mieux.",2017-01-30
+1824,496,737,4,,2020-06-24
+1825,239,275,4,"Une belle découverte, l'auteur a beaucoup de talent.",2017-01-05
+1826,190,303,2,Passionnant du début à la fin.,2017-09-02
+1827,150,656,2,,2021-12-08
+1828,593,385,5,,2019-12-18
+1829,260,741,2,Trop long à mon goût mais le fond est bon.,2018-10-17
+1830,720,141,4,"Décevant, je m'attendais à mieux.",2023-09-10
+1831,304,1215,5,"Un chef-d'œuvre absolu, à lire absolument.",2017-03-27
+1832,596,871,4,À mettre entre toutes les mains !,2018-10-28
+1833,476,663,5,Trop long à mon goût mais le fond est bon.,2019-06-07
+1834,762,625,5,"Magnifique, une écriture poétique et profonde.",2016-01-18
+1835,525,176,3,"Magnifique, une écriture poétique et profonde.",2015-01-16
+1836,465,318,3,Impossible à lâcher ! Un vrai page-turner.,2022-12-17
+1837,90,1101,3,"J'ai adoré les personnages, très bien construits.",2019-02-03
+1838,56,842,5,À mettre entre toutes les mains !,2022-06-14
+1839,521,697,5,Trop long à mon goût mais le fond est bon.,2020-02-20
+1840,756,862,4,Impossible à lâcher ! Un vrai page-turner.,2021-12-09
+1841,771,1189,2,Trop long à mon goût mais le fond est bon.,2024-04-01
+1842,423,1199,4,,2017-01-22
+1843,142,405,4,Impossible à lâcher ! Un vrai page-turner.,2022-12-15
+1844,588,712,4,"Un chef-d'œuvre absolu, à lire absolument.",2020-01-19
+1845,683,10,5,,2022-08-16
+1846,258,318,3,,2019-09-09
+1847,160,881,3,"Une belle découverte, l'auteur a beaucoup de talent.",2023-07-27
+1848,279,1451,5,,2016-08-17
+1849,102,381,4,,2022-03-29
+1850,111,1468,5,"Un chef-d'œuvre absolu, à lire absolument.",2020-10-03
+1851,95,1369,5,Impossible à lâcher ! Un vrai page-turner.,2015-04-26
+1852,239,528,4,,2018-08-31
+1853,104,65,4,Passionnant du début à la fin.,2021-01-22
+1854,243,1493,4,,2023-04-01
+1855,211,482,3,,2018-05-07
+1856,322,425,5,"Un chef-d'œuvre absolu, à lire absolument.",2018-07-25
+1857,666,874,5,À mettre entre toutes les mains !,2018-04-22
+1858,231,135,4,Impossible à lâcher ! Un vrai page-turner.,2022-07-22
+1859,648,133,5,"J'ai adoré les personnages, très bien construits.",2024-01-17
+1860,201,714,3,À mettre entre toutes les mains !,2019-01-08
+1861,267,433,3,"Plutôt moyen, rien d'exceptionnel.",2016-11-12
+1862,332,620,2,"Plutôt moyen, rien d'exceptionnel.",2021-05-29
+1863,145,1412,4,,2021-01-18
+1864,137,1167,5,À mettre entre toutes les mains !,2017-11-09
+1865,350,1129,4,,2020-09-29
+1866,311,710,4,Trop long à mon goût mais le fond est bon.,2021-06-04
+1867,704,205,5,"Plutôt moyen, rien d'exceptionnel.",2015-12-16
+1868,438,361,4,Impossible à lâcher ! Un vrai page-turner.,2017-03-11
+1869,110,620,3,Passionnant du début à la fin.,2016-02-13
+1870,206,445,5,"Très bien écrit, une lecture agréable.",2023-10-28
+1871,229,849,4,Trop long à mon goût mais le fond est bon.,2015-12-01
+1872,442,206,4,,2018-01-21
+1873,247,464,4,,2023-06-09
+1874,685,1422,5,"Très bien écrit, une lecture agréable.",2016-06-04
+1875,511,1436,3,,2021-10-16
+1876,771,768,5,"Décevant, je m'attendais à mieux.",2016-03-18
+1877,465,1083,5,Une œuvre marquante qui laisse une empreinte durable.,2015-01-02
+1878,679,1408,4,"Décevant, je m'attendais à mieux.",2021-08-30
+1879,437,915,5,Histoire intéressante mais style un peu lourd.,2015-12-31
+1880,568,881,3,,2021-11-27
+1881,775,217,4,"Plutôt moyen, rien d'exceptionnel.",2024-12-05
+1882,648,927,3,"Plutôt moyen, rien d'exceptionnel.",2019-04-27
+1883,707,529,4,"J'ai adoré les personnages, très bien construits.",2023-09-27
+1884,120,1245,5,Passionnant du début à la fin.,2017-10-07
+1885,124,928,5,"Excellent livre, je le recommande vivement !",2017-12-02
+1886,401,211,4,"Un chef-d'œuvre absolu, à lire absolument.",2021-01-26
+1887,751,557,1,"Une belle découverte, l'auteur a beaucoup de talent.",2016-05-29
+1888,388,977,3,Trop long à mon goût mais le fond est bon.,2024-03-06
+1889,604,1295,2,Histoire intéressante mais style un peu lourd.,2016-06-14
+1890,365,1352,5,Trop long à mon goût mais le fond est bon.,2017-03-16
+1891,419,1387,5,Passionnant du début à la fin.,2022-04-01
+1892,330,329,4,"Un chef-d'œuvre absolu, à lire absolument.",2016-04-19
+1893,216,305,4,"Une belle découverte, l'auteur a beaucoup de talent.",2020-09-27
+1894,222,633,3,À mettre entre toutes les mains !,2022-08-30
+1895,688,748,4,,2021-10-20
+1896,475,955,4,"Plutôt moyen, rien d'exceptionnel.",2019-05-24
+1897,721,1347,4,,2022-12-28
+1898,663,1429,5,À mettre entre toutes les mains !,2019-07-26
+1899,201,863,4,"Très bien écrit, une lecture agréable.",2015-11-11
+1900,473,238,5,Une œuvre marquante qui laisse une empreinte durable.,2017-05-19
+1901,653,702,4,"Un chef-d'œuvre absolu, à lire absolument.",2021-10-16
+1902,276,757,5,Impossible à lâcher ! Un vrai page-turner.,2020-11-05
+1903,631,690,4,Impossible à lâcher ! Un vrai page-turner.,2017-12-15
+1904,552,846,3,Impossible à lâcher ! Un vrai page-turner.,2021-06-08
+1905,749,946,5,Passionnant du début à la fin.,2022-10-15
+1906,643,567,2,À mettre entre toutes les mains !,2024-05-04
+1907,788,1263,3,Histoire intéressante mais style un peu lourd.,2021-05-07
+1908,722,244,3,Passionnant du début à la fin.,2017-10-30
+1909,318,1480,5,Impossible à lâcher ! Un vrai page-turner.,2019-07-03
+1910,474,798,2,"Plutôt moyen, rien d'exceptionnel.",2019-01-17
+1911,507,536,1,,2023-09-22
+1912,379,326,5,"Magnifique, une écriture poétique et profonde.",2022-09-30
+1913,477,41,3,"Une belle découverte, l'auteur a beaucoup de talent.",2019-11-01
+1914,390,475,1,"Magnifique, une écriture poétique et profonde.",2024-11-19
+1915,453,1169,5,"Très bien écrit, une lecture agréable.",2022-06-25
+1916,661,1,4,"Magnifique, une écriture poétique et profonde.",2018-12-19
+1917,785,202,4,"Une belle découverte, l'auteur a beaucoup de talent.",2016-11-25
+1918,234,575,5,Passionnant du début à la fin.,2023-02-23
+1919,43,557,2,"Une belle découverte, l'auteur a beaucoup de talent.",2015-07-24
+1920,526,314,4,,2021-08-03
+1921,147,651,2,Impossible à lâcher ! Un vrai page-turner.,2015-04-27
+1922,5,368,4,"Très bien écrit, une lecture agréable.",2023-10-13
+1923,754,192,3,"Magnifique, une écriture poétique et profonde.",2024-04-18
+1924,457,362,4,,2018-11-24
+1925,380,660,2,"Un chef-d'œuvre absolu, à lire absolument.",2022-10-14
+1926,633,58,3,"Une belle découverte, l'auteur a beaucoup de talent.",2018-11-13
+1927,492,1439,5,"J'ai adoré les personnages, très bien construits.",2021-02-06
+1928,290,581,2,"Un chef-d'œuvre absolu, à lire absolument.",2017-05-13
+1929,252,1300,4,"J'ai adoré les personnages, très bien construits.",2023-03-11
+1930,425,702,2,"Un chef-d'œuvre absolu, à lire absolument.",2022-12-30
+1931,298,1150,3,,2016-07-18
+1932,302,183,3,,2023-11-29
+1933,51,831,4,"Magnifique, une écriture poétique et profonde.",2024-08-14
+1934,758,539,5,,2019-02-08
+1935,655,1160,3,"J'ai adoré les personnages, très bien construits.",2016-05-01
+1936,497,1399,4,"Un chef-d'œuvre absolu, à lire absolument.",2017-04-15
+1937,292,1472,4,Très instructif et bien documenté.,2022-12-12
+1938,646,87,5,"J'ai adoré les personnages, très bien construits.",2020-02-03
+1939,114,1121,5,,2016-02-14
+1940,641,1089,3,"Magnifique, une écriture poétique et profonde.",2015-03-11
+1941,445,1363,3,,2017-06-19
+1942,69,1082,5,"Magnifique, une écriture poétique et profonde.",2022-06-20
+1943,534,233,4,Une œuvre marquante qui laisse une empreinte durable.,2015-04-22
+1944,558,125,3,"J'ai adoré les personnages, très bien construits.",2021-01-27
+1945,571,494,5,"Magnifique, une écriture poétique et profonde.",2020-05-18
+1946,7,1384,2,Très instructif et bien documenté.,2018-12-28
+1947,461,1246,5,Passionnant du début à la fin.,2019-09-29
+1948,318,554,4,Impossible à lâcher ! Un vrai page-turner.,2022-05-08
+1949,698,388,3,"Une belle découverte, l'auteur a beaucoup de talent.",2022-10-13
+1950,190,1072,4,Impossible à lâcher ! Un vrai page-turner.,2022-11-12
+1951,402,333,3,,2016-10-04
+1952,238,1029,5,"Décevant, je m'attendais à mieux.",2015-08-24
+1953,231,145,4,"Très bien écrit, une lecture agréable.",2017-12-06
+1954,329,21,4,"Excellent livre, je le recommande vivement !",2022-05-06
+1955,196,1275,4,"Décevant, je m'attendais à mieux.",2020-11-04
+1956,386,1261,3,Impossible à lâcher ! Un vrai page-turner.,2022-03-03
+1957,92,51,4,"Un chef-d'œuvre absolu, à lire absolument.",2017-06-20
+1958,219,1065,3,Passionnant du début à la fin.,2024-03-12
+1959,222,606,4,,2016-12-30
+1960,709,615,4,Impossible à lâcher ! Un vrai page-turner.,2021-06-12
+1961,722,351,3,"Plutôt moyen, rien d'exceptionnel.",2018-11-14
+1962,742,679,5,,2015-01-07
+1963,697,230,5,"J'ai adoré les personnages, très bien construits.",2022-10-07
+1964,697,746,4,Histoire intéressante mais style un peu lourd.,2021-03-05
+1965,318,1007,4,,2018-01-15
+1966,59,751,2,À mettre entre toutes les mains !,2021-02-28
+1967,478,29,5,"Décevant, je m'attendais à mieux.",2016-02-25
+1968,740,1335,4,Impossible à lâcher ! Un vrai page-turner.,2015-08-12
+1969,138,706,5,"Magnifique, une écriture poétique et profonde.",2021-09-11
+1970,543,494,4,,2017-05-05
+1971,181,13,4,,2015-08-02
+1972,236,1311,4,"Très bien écrit, une lecture agréable.",2015-08-13
+1973,154,1224,4,Une œuvre marquante qui laisse une empreinte durable.,2024-05-03
+1974,459,670,5,"Très bien écrit, une lecture agréable.",2016-09-29
+1975,442,440,4,"Une belle découverte, l'auteur a beaucoup de talent.",2023-07-21
+1976,622,874,5,À mettre entre toutes les mains !,2017-05-16
+1977,213,1438,1,,2018-11-30
+1978,106,957,4,"Plutôt moyen, rien d'exceptionnel.",2021-12-26
+1979,626,357,2,,2018-03-16
+1980,428,329,2,Histoire intéressante mais style un peu lourd.,2019-02-01
+1981,591,1469,3,,2021-12-25
+1982,377,815,5,"Très bien écrit, une lecture agréable.",2021-07-03
+1983,176,1225,5,Impossible à lâcher ! Un vrai page-turner.,2015-05-15
+1984,598,1161,3,Très instructif et bien documenté.,2018-05-07
+1985,511,747,5,Trop long à mon goût mais le fond est bon.,2024-06-27
+1986,201,926,5,Une œuvre marquante qui laisse une empreinte durable.,2016-12-19
+1987,358,855,5,Passionnant du début à la fin.,2021-02-03
+1988,439,639,5,Impossible à lâcher ! Un vrai page-turner.,2019-01-06
+1989,680,663,4,"Excellent livre, je le recommande vivement !",2018-08-10
+1990,121,1149,4,Une œuvre marquante qui laisse une empreinte durable.,2015-08-03
+1991,406,951,4,Trop long à mon goût mais le fond est bon.,2018-02-21
+1992,346,137,2,"Excellent livre, je le recommande vivement !",2018-07-06
+1993,632,282,5,Trop long à mon goût mais le fond est bon.,2020-08-22
+1994,468,6,3,,2017-12-10
+1995,387,1251,4,Une œuvre marquante qui laisse une empreinte durable.,2023-03-07
+1996,559,97,5,Trop long à mon goût mais le fond est bon.,2019-07-27
+1997,7,1419,5,"Plutôt moyen, rien d'exceptionnel.",2022-11-24
+1998,188,1034,4,"Très bien écrit, une lecture agréable.",2019-09-07
+1999,146,952,3,"Magnifique, une écriture poétique et profonde.",2022-03-03
+2000,167,57,4,,2018-10-02
+2001,179,226,3,"Un chef-d'œuvre absolu, à lire absolument.",2021-04-17
+2002,13,358,4,Histoire intéressante mais style un peu lourd.,2017-12-23
+2003,717,783,5,"Décevant, je m'attendais à mieux.",2020-07-10
+2004,388,499,3,"J'ai adoré les personnages, très bien construits.",2024-10-08
+2005,301,1048,4,"Une belle découverte, l'auteur a beaucoup de talent.",2022-01-24
+2006,94,646,4,,2021-09-12
+2007,337,565,4,Impossible à lâcher ! Un vrai page-turner.,2017-09-11
+2008,748,1119,3,Une œuvre marquante qui laisse une empreinte durable.,2017-07-18
+2009,340,1025,5,Impossible à lâcher ! Un vrai page-turner.,2022-01-13
+2010,618,1398,4,Trop long à mon goût mais le fond est bon.,2021-08-15
+2011,356,457,5,"Magnifique, une écriture poétique et profonde.",2022-04-07
+2012,615,1459,3,,2023-01-09
+2013,485,1336,4,,2015-01-29
+2014,586,1420,1,"Une belle découverte, l'auteur a beaucoup de talent.",2022-06-26
+2015,310,1178,4,"Très bien écrit, une lecture agréable.",2015-11-22
+2016,295,1244,4,Une œuvre marquante qui laisse une empreinte durable.,2015-04-15
+2017,579,1112,4,,2024-10-05
+2018,56,645,4,Très instructif et bien documenté.,2018-08-12
+2019,620,798,4,,2022-05-04
+2020,464,1329,5,,2024-06-30
+2021,722,742,4,"Plutôt moyen, rien d'exceptionnel.",2017-05-01
+2022,269,1378,5,À mettre entre toutes les mains !,2018-01-21
+2023,173,183,1,"Excellent livre, je le recommande vivement !",2022-07-31
+2024,522,603,5,"Décevant, je m'attendais à mieux.",2021-02-11
+2025,643,834,3,Une œuvre marquante qui laisse une empreinte durable.,2020-03-20
+2026,561,908,3,À mettre entre toutes les mains !,2019-03-09
+2027,319,245,3,Impossible à lâcher ! Un vrai page-turner.,2015-07-17
+2028,588,420,4,Très instructif et bien documenté.,2020-03-23
+2029,3,907,5,Trop long à mon goût mais le fond est bon.,2022-05-16
+2030,31,1397,4,Trop long à mon goût mais le fond est bon.,2021-08-01
+2031,283,231,3,"Très bien écrit, une lecture agréable.",2016-12-04
+2032,555,538,5,Trop long à mon goût mais le fond est bon.,2024-07-04
+2033,616,642,5,Impossible à lâcher ! Un vrai page-turner.,2024-04-21
+2034,374,1103,5,À mettre entre toutes les mains !,2015-09-10
+2035,710,839,4,"J'ai adoré les personnages, très bien construits.",2016-07-12
+2036,426,1227,5,,2019-03-15
+2037,398,1154,4,Impossible à lâcher ! Un vrai page-turner.,2015-04-28
+2038,446,43,5,"Une belle découverte, l'auteur a beaucoup de talent.",2019-10-06
+2039,128,40,1,Passionnant du début à la fin.,2024-02-18
+2040,79,1348,2,Très instructif et bien documenté.,2024-09-25
+2041,266,749,5,Trop long à mon goût mais le fond est bon.,2021-07-18
+2042,113,685,5,À mettre entre toutes les mains !,2017-12-04
+2043,616,536,5,"J'ai adoré les personnages, très bien construits.",2022-02-13
+2044,677,867,3,Impossible à lâcher ! Un vrai page-turner.,2024-09-19
+2045,525,1424,5,"Très bien écrit, une lecture agréable.",2017-09-21
+2046,750,1108,5,"Plutôt moyen, rien d'exceptionnel.",2020-08-01
+2047,3,232,4,,2023-10-15
+2048,679,1411,5,"Très bien écrit, une lecture agréable.",2023-01-31
+2049,237,479,5,"J'ai adoré les personnages, très bien construits.",2022-07-01
+2050,164,427,3,"Décevant, je m'attendais à mieux.",2018-02-02
+2051,84,1290,5,,2020-03-20
+2052,777,202,2,Très instructif et bien documenté.,2021-09-30
+2053,427,492,3,Très instructif et bien documenté.,2024-02-13
+2054,632,1323,1,"Très bien écrit, une lecture agréable.",2017-02-25
+2055,692,353,3,,2020-09-09
+2056,146,371,5,"Plutôt moyen, rien d'exceptionnel.",2018-04-18
+2057,675,1467,3,Impossible à lâcher ! Un vrai page-turner.,2020-07-03
+2058,528,1151,2,Impossible à lâcher ! Un vrai page-turner.,2018-12-17
+2059,488,229,5,,2018-04-06
+2060,145,1370,5,Impossible à lâcher ! Un vrai page-turner.,2015-03-11
+2061,16,1441,5,"Plutôt moyen, rien d'exceptionnel.",2018-04-21
+2062,169,273,3,,2015-06-29
+2063,724,255,4,Une œuvre marquante qui laisse une empreinte durable.,2017-07-03
+2064,642,196,3,Histoire intéressante mais style un peu lourd.,2017-05-08
+2065,264,72,3,"Excellent livre, je le recommande vivement !",2024-06-01
+2066,350,1368,4,,2022-12-06
+2067,655,187,4,"J'ai adoré les personnages, très bien construits.",2018-11-24
+2068,534,236,3,Très instructif et bien documenté.,2016-10-26
+2069,49,168,4,"Décevant, je m'attendais à mieux.",2021-11-16
+2070,706,997,4,Histoire intéressante mais style un peu lourd.,2019-07-13
+2071,180,167,2,"Excellent livre, je le recommande vivement !",2022-02-09
+2072,55,855,3,"Très bien écrit, une lecture agréable.",2024-03-26
+2073,136,549,1,"Magnifique, une écriture poétique et profonde.",2019-03-27
+2074,444,583,5,"Magnifique, une écriture poétique et profonde.",2024-03-01
+2075,219,797,3,"Très bien écrit, une lecture agréable.",2023-06-26
+2076,713,503,5,"Magnifique, une écriture poétique et profonde.",2024-07-28
+2077,103,215,3,Impossible à lâcher ! Un vrai page-turner.,2019-03-25
+2078,555,1411,5,Impossible à lâcher ! Un vrai page-turner.,2018-08-29
+2079,28,1209,2,Une œuvre marquante qui laisse une empreinte durable.,2024-04-03
+2080,540,585,4,Impossible à lâcher ! Un vrai page-turner.,2017-11-16
+2081,365,557,4,Histoire intéressante mais style un peu lourd.,2023-03-31
+2082,609,900,2,Une œuvre marquante qui laisse une empreinte durable.,2016-08-23
+2083,675,113,3,Une œuvre marquante qui laisse une empreinte durable.,2018-06-09
+2084,129,1391,2,Trop long à mon goût mais le fond est bon.,2017-08-03
+2085,583,527,4,Une œuvre marquante qui laisse une empreinte durable.,2019-04-23
+2086,334,207,5,Histoire intéressante mais style un peu lourd.,2019-09-19
+2087,711,744,4,Très instructif et bien documenté.,2018-04-12
+2088,757,652,3,,2024-12-13
+2089,524,1047,4,Histoire intéressante mais style un peu lourd.,2019-04-02
+2090,326,36,5,"J'ai adoré les personnages, très bien construits.",2015-04-12
+2091,257,488,5,"Plutôt moyen, rien d'exceptionnel.",2018-04-18
+2092,159,157,3,"Un chef-d'œuvre absolu, à lire absolument.",2023-09-18
+2093,448,1440,4,Passionnant du début à la fin.,2017-12-03
+2094,540,449,4,"Une belle découverte, l'auteur a beaucoup de talent.",2016-06-26
+2095,767,904,5,Histoire intéressante mais style un peu lourd.,2024-05-16
+2096,156,335,3,,2018-07-23
+2097,781,4,5,"Magnifique, une écriture poétique et profonde.",2017-05-12
+2098,282,201,3,"Décevant, je m'attendais à mieux.",2017-07-29
+2099,467,300,1,"Très bien écrit, une lecture agréable.",2021-09-20
+2100,495,708,3,"Magnifique, une écriture poétique et profonde.",2015-08-01
+2101,440,484,3,"J'ai adoré les personnages, très bien construits.",2021-10-10
+2102,571,1360,4,"Une belle découverte, l'auteur a beaucoup de talent.",2017-05-09
+2103,232,764,3,"Plutôt moyen, rien d'exceptionnel.",2018-10-30
+2104,543,388,5,Passionnant du début à la fin.,2022-08-27
+2105,560,368,5,"Décevant, je m'attendais à mieux.",2015-12-25
+2106,541,1237,3,Très instructif et bien documenté.,2019-02-22
+2107,103,1490,2,Très instructif et bien documenté.,2020-09-09
+2108,578,1446,4,À mettre entre toutes les mains !,2022-06-29
+2109,96,1081,2,,2021-09-30
+2110,636,554,3,,2024-03-04
+2111,728,1148,3,,2022-03-16
+2112,3,844,3,"J'ai adoré les personnages, très bien construits.",2021-08-06
+2113,764,1344,5,"Un chef-d'œuvre absolu, à lire absolument.",2024-02-03
+2114,317,401,3,"Une belle découverte, l'auteur a beaucoup de talent.",2022-12-27
+2115,102,1221,4,Histoire intéressante mais style un peu lourd.,2015-07-26
+2116,579,1383,5,,2016-08-30
+2117,284,402,5,Une œuvre marquante qui laisse une empreinte durable.,2024-07-10
+2118,33,51,4,,2023-04-21
+2119,782,942,3,"Un chef-d'œuvre absolu, à lire absolument.",2016-07-01
+2120,301,1327,3,"Magnifique, une écriture poétique et profonde.",2023-12-06
+2121,681,1020,5,,2017-11-08
+2122,492,1030,3,"Excellent livre, je le recommande vivement !",2020-06-13
+2123,122,278,2,Passionnant du début à la fin.,2020-07-23
+2124,635,1106,5,Impossible à lâcher ! Un vrai page-turner.,2015-11-16
+2125,52,301,3,,2020-08-22
+2126,675,367,4,,2018-02-24
+2127,298,1335,4,,2015-06-02
+2128,452,787,4,"Très bien écrit, une lecture agréable.",2018-12-27
+2129,147,1107,3,,2023-09-07
+2130,580,950,4,"Très bien écrit, une lecture agréable.",2019-10-12
+2131,416,734,5,,2016-03-12
+2132,548,99,2,"Excellent livre, je le recommande vivement !",2023-06-05
+2133,148,956,4,,2022-06-18
+2134,130,456,2,,2024-06-17
+2135,483,754,2,"Excellent livre, je le recommande vivement !",2017-06-02
+2136,396,842,5,Une œuvre marquante qui laisse une empreinte durable.,2018-07-02
+2137,245,1200,5,"Magnifique, une écriture poétique et profonde.",2017-08-27
+2138,562,554,5,"Magnifique, une écriture poétique et profonde.",2024-02-29
+2139,94,1420,4,Passionnant du début à la fin.,2020-08-21
+2140,77,796,3,,2016-12-23
+2141,110,357,4,,2016-10-13
+2142,197,834,3,"Décevant, je m'attendais à mieux.",2018-09-14
+2143,116,192,2,"J'ai adoré les personnages, très bien construits.",2015-05-09
+2144,762,422,5,"Excellent livre, je le recommande vivement !",2016-09-23
+2145,390,314,3,,2015-06-01
+2146,393,931,4,"J'ai adoré les personnages, très bien construits.",2016-12-15
+2147,693,718,3,Impossible à lâcher ! Un vrai page-turner.,2016-10-16
+2148,334,577,5,Passionnant du début à la fin.,2024-02-28
+2149,774,1442,4,"Un chef-d'œuvre absolu, à lire absolument.",2024-02-07
+2150,79,886,4,Passionnant du début à la fin.,2021-09-03
+2151,55,423,4,À mettre entre toutes les mains !,2024-07-26
+2152,289,325,5,"Décevant, je m'attendais à mieux.",2017-11-13
+2153,448,869,4,Une œuvre marquante qui laisse une empreinte durable.,2016-05-29
+2154,172,839,5,"Très bien écrit, une lecture agréable.",2020-07-12
+2155,312,1319,4,,2024-01-10
+2156,365,687,5,Histoire intéressante mais style un peu lourd.,2023-02-13
+2157,775,350,4,Très instructif et bien documenté.,2019-10-15
+2158,267,302,4,"Plutôt moyen, rien d'exceptionnel.",2015-08-04
+2159,385,557,3,,2024-06-10
+2160,671,816,1,Histoire intéressante mais style un peu lourd.,2024-07-15
+2161,769,1048,4,"Un chef-d'œuvre absolu, à lire absolument.",2015-10-11
+2162,112,877,1,Une œuvre marquante qui laisse une empreinte durable.,2018-11-06
+2163,241,1160,4,,2016-01-12
+2164,99,1310,5,Histoire intéressante mais style un peu lourd.,2024-02-08
+2165,188,523,1,"Magnifique, une écriture poétique et profonde.",2023-04-25
+2166,268,438,5,Très instructif et bien documenté.,2015-09-07
+2167,721,1075,4,"Plutôt moyen, rien d'exceptionnel.",2024-01-09
+2168,525,494,3,Passionnant du début à la fin.,2018-12-13
+2169,515,1321,5,Histoire intéressante mais style un peu lourd.,2018-08-06
+2170,270,1298,4,Impossible à lâcher ! Un vrai page-turner.,2020-01-13
+2171,589,1158,5,Histoire intéressante mais style un peu lourd.,2016-06-28
+2172,358,599,5,"Magnifique, une écriture poétique et profonde.",2015-08-25
+2173,749,622,3,Très instructif et bien documenté.,2020-05-09
+2174,335,827,4,"Une belle découverte, l'auteur a beaucoup de talent.",2024-12-08
+2175,689,1082,3,"J'ai adoré les personnages, très bien construits.",2020-01-30
+2176,536,1313,5,"Une belle découverte, l'auteur a beaucoup de talent.",2017-01-12
+2177,782,651,3,"Très bien écrit, une lecture agréable.",2018-09-28
+2178,543,12,4,"Une belle découverte, l'auteur a beaucoup de talent.",2020-11-09
+2179,691,1220,3,,2024-06-27
+2180,617,456,4,Très instructif et bien documenté.,2018-03-06
+2181,423,988,2,Impossible à lâcher ! Un vrai page-turner.,2021-12-01
+2182,608,317,4,,2019-12-04
+2183,109,42,5,À mettre entre toutes les mains !,2023-12-08
+2184,638,754,5,"Un chef-d'œuvre absolu, à lire absolument.",2018-07-27
+2185,76,1146,5,"Excellent livre, je le recommande vivement !",2019-02-09
+2186,209,371,1,Trop long à mon goût mais le fond est bon.,2015-11-09
+2187,227,1401,4,,2018-06-30
+2188,418,561,5,,2020-05-29
+2189,162,1455,4,Histoire intéressante mais style un peu lourd.,2015-10-18
+2190,674,118,3,"Plutôt moyen, rien d'exceptionnel.",2015-02-28
+2191,397,1164,5,À mettre entre toutes les mains !,2023-03-10
+2192,791,1481,4,"Excellent livre, je le recommande vivement !",2015-10-18
+2193,94,935,2,,2015-05-19
+2194,769,509,5,Impossible à lâcher ! Un vrai page-turner.,2020-02-27
+2195,104,1084,3,Impossible à lâcher ! Un vrai page-turner.,2015-08-22
+2196,566,953,4,"Une belle découverte, l'auteur a beaucoup de talent.",2017-06-04
+2197,653,217,5,Très instructif et bien documenté.,2016-08-09
+2198,459,707,4,Trop long à mon goût mais le fond est bon.,2015-07-13
+2199,87,89,1,Impossible à lâcher ! Un vrai page-turner.,2022-04-23
+2200,454,964,3,,2022-09-23
+2201,474,113,2,Passionnant du début à la fin.,2022-01-23
+2202,692,1412,5,Une œuvre marquante qui laisse une empreinte durable.,2015-10-20
+2203,558,18,4,,2018-10-19
+2204,250,930,1,Une œuvre marquante qui laisse une empreinte durable.,2015-03-26
+2205,103,13,5,"Décevant, je m'attendais à mieux.",2023-02-17
+2206,120,347,5,"Un chef-d'œuvre absolu, à lire absolument.",2024-10-19
+2207,629,86,3,"Excellent livre, je le recommande vivement !",2016-05-14
+2208,79,1119,5,Impossible à lâcher ! Un vrai page-turner.,2017-03-13
+2209,276,1488,4,,2019-04-14
+2210,475,894,4,Une œuvre marquante qui laisse une empreinte durable.,2015-09-23
+2211,41,226,3,"Très bien écrit, une lecture agréable.",2023-11-16
+2212,796,872,3,,2016-09-05
+2213,762,311,4,Histoire intéressante mais style un peu lourd.,2023-09-02
+2214,139,1209,5,Trop long à mon goût mais le fond est bon.,2016-05-12
+2215,444,914,2,,2024-10-21
+2216,497,41,5,,2018-08-31
+2217,260,618,5,Passionnant du début à la fin.,2018-08-31
+2218,37,322,5,"Décevant, je m'attendais à mieux.",2023-01-11
+2219,86,1062,4,"J'ai adoré les personnages, très bien construits.",2018-08-26
+2220,270,1304,4,"Une belle découverte, l'auteur a beaucoup de talent.",2018-11-15
+2221,633,674,1,Histoire intéressante mais style un peu lourd.,2016-08-03
+2222,258,1333,5,"Un chef-d'œuvre absolu, à lire absolument.",2019-03-16
+2223,184,466,2,Passionnant du début à la fin.,2018-03-23
+2224,516,907,4,,2022-09-12
+2225,199,315,1,,2016-01-05
+2226,707,423,4,"Excellent livre, je le recommande vivement !",2017-08-20
+2227,109,1074,4,À mettre entre toutes les mains !,2023-10-24
+2228,474,574,3,"Décevant, je m'attendais à mieux.",2020-09-21
+2229,764,1002,4,"Un chef-d'œuvre absolu, à lire absolument.",2021-11-23
+2230,64,90,5,Impossible à lâcher ! Un vrai page-turner.,2019-11-07
+2231,236,65,4,Trop long à mon goût mais le fond est bon.,2019-05-23
+2232,460,895,3,"Magnifique, une écriture poétique et profonde.",2016-10-03
+2233,727,1247,5,Histoire intéressante mais style un peu lourd.,2024-06-20
+2234,625,1226,2,"Excellent livre, je le recommande vivement !",2017-11-18
+2235,732,1010,2,Une œuvre marquante qui laisse une empreinte durable.,2021-09-04
+2236,336,527,5,"Magnifique, une écriture poétique et profonde.",2020-08-18
+2237,272,624,5,"Une belle découverte, l'auteur a beaucoup de talent.",2023-01-15
+2238,121,503,4,"Une belle découverte, l'auteur a beaucoup de talent.",2016-03-31
+2239,353,405,3,À mettre entre toutes les mains !,2021-07-11
+2240,217,1302,5,Une œuvre marquante qui laisse une empreinte durable.,2020-03-16
+2241,789,441,2,"Décevant, je m'attendais à mieux.",2024-01-14
+2242,480,774,4,Très instructif et bien documenté.,2023-03-24
+2243,548,1294,3,Histoire intéressante mais style un peu lourd.,2023-08-14
+2244,609,594,5,Passionnant du début à la fin.,2022-01-16
+2245,282,1327,2,"Excellent livre, je le recommande vivement !",2023-01-28
+2246,29,319,4,"Un chef-d'œuvre absolu, à lire absolument.",2019-04-25
+2247,426,669,5,Impossible à lâcher ! Un vrai page-turner.,2018-04-18
+2248,368,413,4,"Un chef-d'œuvre absolu, à lire absolument.",2016-07-12
+2249,255,626,5,"Un chef-d'œuvre absolu, à lire absolument.",2017-06-13
+2250,358,794,4,"Décevant, je m'attendais à mieux.",2023-09-07
+2251,780,1073,4,Trop long à mon goût mais le fond est bon.,2024-02-25
+2252,374,992,4,"J'ai adoré les personnages, très bien construits.",2022-02-11
+2253,153,1361,1,"Un chef-d'œuvre absolu, à lire absolument.",2024-06-07
+2254,717,1260,4,,2017-08-11
+2255,651,956,4,,2021-11-09
+2256,80,749,4,"Excellent livre, je le recommande vivement !",2016-02-11
+2257,319,183,2,,2023-05-25
+2258,791,1083,2,"Décevant, je m'attendais à mieux.",2017-05-17
+2259,71,725,3,"Plutôt moyen, rien d'exceptionnel.",2015-10-28
+2260,116,734,4,"J'ai adoré les personnages, très bien construits.",2019-07-17
+2261,346,80,4,,2017-04-07
+2262,615,919,5,Passionnant du début à la fin.,2024-12-12
+2263,450,1241,5,"Très bien écrit, une lecture agréable.",2024-10-10
+2264,380,132,1,"Plutôt moyen, rien d'exceptionnel.",2024-04-20
+2265,95,128,1,Histoire intéressante mais style un peu lourd.,2018-04-22
+2266,227,31,1,"Un chef-d'œuvre absolu, à lire absolument.",2016-07-20
+2267,769,29,4,Impossible à lâcher ! Un vrai page-turner.,2018-03-30
+2268,150,915,4,"Plutôt moyen, rien d'exceptionnel.",2015-02-04
+2269,649,1078,3,"J'ai adoré les personnages, très bien construits.",2016-11-06
+2270,404,912,4,"Magnifique, une écriture poétique et profonde.",2016-02-16
+2271,90,634,3,"Une belle découverte, l'auteur a beaucoup de talent.",2018-10-23
+2272,235,1223,4,Une œuvre marquante qui laisse une empreinte durable.,2020-05-02
+2273,81,566,2,"Décevant, je m'attendais à mieux.",2019-11-04
+2274,739,598,2,Très instructif et bien documenté.,2019-03-22
+2275,687,527,5,Histoire intéressante mais style un peu lourd.,2017-03-25
+2276,519,414,5,Une œuvre marquante qui laisse une empreinte durable.,2023-05-14
+2277,65,846,4,"Décevant, je m'attendais à mieux.",2022-09-29
+2278,554,1488,4,Histoire intéressante mais style un peu lourd.,2024-10-12
+2279,53,729,4,Histoire intéressante mais style un peu lourd.,2017-10-05
+2280,572,1196,3,"Décevant, je m'attendais à mieux.",2023-12-07
+2281,521,1208,4,"Magnifique, une écriture poétique et profonde.",2018-06-04
+2282,342,1244,4,Impossible à lâcher ! Un vrai page-turner.,2021-02-02
+2283,183,384,5,Passionnant du début à la fin.,2022-10-05
+2284,303,55,5,"Décevant, je m'attendais à mieux.",2016-05-15
+2285,22,20,2,Impossible à lâcher ! Un vrai page-turner.,2019-06-25
+2286,122,225,5,"Une belle découverte, l'auteur a beaucoup de talent.",2020-11-27
+2287,330,573,4,Une œuvre marquante qui laisse une empreinte durable.,2022-04-11
+2288,33,1478,3,"Plutôt moyen, rien d'exceptionnel.",2019-04-07
+2289,394,263,5,"Décevant, je m'attendais à mieux.",2024-07-11
+2290,221,486,4,"J'ai adoré les personnages, très bien construits.",2023-03-14
+2291,9,67,5,"Décevant, je m'attendais à mieux.",2022-05-04
+2292,355,720,5,Une œuvre marquante qui laisse une empreinte durable.,2022-05-22
+2293,188,1310,4,"Une belle découverte, l'auteur a beaucoup de talent.",2024-06-13
+2294,500,1369,5,,2024-03-01
+2295,368,324,3,Une œuvre marquante qui laisse une empreinte durable.,2020-06-27
+2296,33,252,3,,2024-02-17
+2297,120,129,4,,2017-08-31
+2298,684,423,4,,2016-08-04
+2299,302,1154,4,,2015-12-21
+2300,348,879,4,"Plutôt moyen, rien d'exceptionnel.",2020-07-22
+2301,561,975,2,"Un chef-d'œuvre absolu, à lire absolument.",2018-08-18
+2302,701,1247,3,"Magnifique, une écriture poétique et profonde.",2020-10-04
+2303,698,1198,2,,2018-12-03
+2304,286,1103,5,"Décevant, je m'attendais à mieux.",2018-09-16
+2305,444,326,5,Impossible à lâcher ! Un vrai page-turner.,2019-10-05
+2306,288,408,4,"Très bien écrit, une lecture agréable.",2019-10-30
+2307,85,316,1,"Décevant, je m'attendais à mieux.",2021-02-28
+2308,431,1354,4,"Une belle découverte, l'auteur a beaucoup de talent.",2021-04-06
+2309,301,314,4,Passionnant du début à la fin.,2016-02-26
+2310,323,456,4,"Décevant, je m'attendais à mieux.",2015-07-13
+2311,710,1209,4,Passionnant du début à la fin.,2015-05-28
+2312,394,770,4,,2022-03-13
+2313,132,1120,3,Trop long à mon goût mais le fond est bon.,2020-10-22
+2314,338,1158,5,Trop long à mon goût mais le fond est bon.,2018-03-15
+2315,586,485,3,"Très bien écrit, une lecture agréable.",2015-12-23
+2316,328,782,5,Passionnant du début à la fin.,2018-07-02
+2317,30,349,4,"Très bien écrit, une lecture agréable.",2020-10-22
+2318,43,806,5,"Excellent livre, je le recommande vivement !",2023-01-10
+2319,252,838,3,Passionnant du début à la fin.,2023-04-18
+2320,126,1127,3,,2021-09-01
+2321,675,183,4,"Très bien écrit, une lecture agréable.",2017-03-27
+2322,712,127,5,"Un chef-d'œuvre absolu, à lire absolument.",2023-12-19
+2323,636,1056,5,,2022-07-07
+2324,298,1047,3,Histoire intéressante mais style un peu lourd.,2018-06-15
+2325,204,61,1,Très instructif et bien documenté.,2018-10-12
+2326,692,924,5,Histoire intéressante mais style un peu lourd.,2016-05-11
+2327,664,602,5,À mettre entre toutes les mains !,2024-04-02
+2328,355,206,4,,2017-09-28
+2329,206,359,5,Très instructif et bien documenté.,2024-12-19
+2330,249,1446,4,,2020-02-14
+2331,753,724,4,Trop long à mon goût mais le fond est bon.,2019-07-13
+2332,58,929,5,,2024-09-18
+2333,345,48,4,Trop long à mon goût mais le fond est bon.,2019-10-14
+2334,46,792,4,"Excellent livre, je le recommande vivement !",2020-10-12
+2335,370,1458,2,,2015-07-13
+2336,431,1051,4,Une œuvre marquante qui laisse une empreinte durable.,2024-07-02
+2337,753,429,2,Histoire intéressante mais style un peu lourd.,2020-07-26
+2338,278,220,4,"Décevant, je m'attendais à mieux.",2022-07-17
+2339,279,29,4,"Un chef-d'œuvre absolu, à lire absolument.",2021-05-18
+2340,447,1066,3,Passionnant du début à la fin.,2021-07-16
+2341,791,795,2,,2015-10-03
+2342,566,1352,4,,2020-10-04
+2343,500,217,4,"J'ai adoré les personnages, très bien construits.",2021-03-08
+2344,125,1214,3,"Magnifique, une écriture poétique et profonde.",2022-03-10
+2345,149,977,2,,2021-08-23
+2346,590,452,4,Impossible à lâcher ! Un vrai page-turner.,2020-12-28
+2347,490,1237,2,"Excellent livre, je le recommande vivement !",2016-02-03
+2348,538,152,4,Trop long à mon goût mais le fond est bon.,2023-05-08
+2349,9,211,4,Trop long à mon goût mais le fond est bon.,2022-12-29
+2350,451,1401,5,"Décevant, je m'attendais à mieux.",2019-08-13
+2351,135,628,4,,2016-06-11
+2352,703,1062,4,,2016-03-15
+2353,414,894,3,"Une belle découverte, l'auteur a beaucoup de talent.",2020-06-26
+2354,206,160,3,Très instructif et bien documenté.,2024-01-06
+2355,472,594,4,,2018-08-28
+2356,141,1461,5,"Magnifique, une écriture poétique et profonde.",2019-10-14
+2357,187,706,3,"Une belle découverte, l'auteur a beaucoup de talent.",2019-09-29
+2358,676,758,2,"J'ai adoré les personnages, très bien construits.",2016-06-06
+2359,329,896,5,Très instructif et bien documenté.,2018-10-14
+2360,113,786,3,,2016-11-25
+2361,481,196,5,À mettre entre toutes les mains !,2017-03-06
+2362,424,353,4,"Un chef-d'œuvre absolu, à lire absolument.",2018-03-22
+2363,125,480,5,,2017-04-06
+2364,291,824,1,Impossible à lâcher ! Un vrai page-turner.,2019-08-31
+2365,650,1035,4,"Magnifique, une écriture poétique et profonde.",2023-05-10
+2366,303,877,4,Histoire intéressante mais style un peu lourd.,2021-01-16
+2367,146,236,4,"Une belle découverte, l'auteur a beaucoup de talent.",2017-06-10
+2368,630,1143,4,,2016-06-04
+2369,338,668,4,"Une belle découverte, l'auteur a beaucoup de talent.",2018-02-18
+2370,41,720,2,Passionnant du début à la fin.,2015-09-29
+2371,213,636,5,"Excellent livre, je le recommande vivement !",2021-02-12
+2372,722,1358,4,Impossible à lâcher ! Un vrai page-turner.,2021-04-23
+2373,440,1413,5,Très instructif et bien documenté.,2017-12-27
+2374,301,982,5,,2018-06-15
+2375,89,339,3,Très instructif et bien documenté.,2020-10-25
+2376,713,1311,3,"Très bien écrit, une lecture agréable.",2015-04-15
+2377,435,755,5,"Décevant, je m'attendais à mieux.",2021-11-07
+2378,748,1485,5,"Une belle découverte, l'auteur a beaucoup de talent.",2019-09-23
+2379,392,751,4,,2022-12-30
+2380,792,88,5,"Magnifique, une écriture poétique et profonde.",2015-07-21
+2381,242,1243,3,"Une belle découverte, l'auteur a beaucoup de talent.",2024-08-02
+2382,697,998,4,"Très bien écrit, une lecture agréable.",2015-05-18
+2383,754,1401,4,"Une belle découverte, l'auteur a beaucoup de talent.",2016-05-14
+2384,768,230,4,"Excellent livre, je le recommande vivement !",2015-02-20
+2385,224,1375,5,Impossible à lâcher ! Un vrai page-turner.,2023-04-02
+2386,252,687,5,"Une belle découverte, l'auteur a beaucoup de talent.",2023-04-03
+2387,701,233,5,"Magnifique, une écriture poétique et profonde.",2023-03-09
+2388,139,109,3,Trop long à mon goût mais le fond est bon.,2019-06-16
+2389,405,577,5,"Très bien écrit, une lecture agréable.",2024-06-13
+2390,514,547,4,"Une belle découverte, l'auteur a beaucoup de talent.",2023-01-12
+2391,658,1275,4,Histoire intéressante mais style un peu lourd.,2018-12-03
+2392,513,1282,5,À mettre entre toutes les mains !,2024-11-10
+2393,365,953,5,"Très bien écrit, une lecture agréable.",2018-04-12
+2394,614,178,4,Une œuvre marquante qui laisse une empreinte durable.,2018-04-18
+2395,427,138,4,"J'ai adoré les personnages, très bien construits.",2019-03-19
+2396,604,1451,5,,2017-07-11
+2397,654,1470,4,"Excellent livre, je le recommande vivement !",2021-01-16
+2398,665,1481,5,"Décevant, je m'attendais à mieux.",2023-07-18
+2399,506,1374,4,"Plutôt moyen, rien d'exceptionnel.",2024-08-09
+2400,436,1111,5,Impossible à lâcher ! Un vrai page-turner.,2020-11-21
+2401,309,300,1,Trop long à mon goût mais le fond est bon.,2024-02-01
+2402,339,124,4,"J'ai adoré les personnages, très bien construits.",2018-07-21
+2403,144,536,2,"Décevant, je m'attendais à mieux.",2015-06-11
+2404,752,908,5,"Très bien écrit, une lecture agréable.",2024-01-17
+2405,229,443,3,Histoire intéressante mais style un peu lourd.,2021-09-24
+2406,383,976,4,"Magnifique, une écriture poétique et profonde.",2023-06-12
+2407,584,856,5,,2015-05-05
+2408,553,554,5,"Magnifique, une écriture poétique et profonde.",2021-05-12
+2409,169,1472,4,,2023-09-01
+2410,325,422,4,"Une belle découverte, l'auteur a beaucoup de talent.",2019-06-20
+2411,72,294,4,Trop long à mon goût mais le fond est bon.,2020-07-03
+2412,386,312,2,Une œuvre marquante qui laisse une empreinte durable.,2017-03-14
+2413,344,615,4,"Très bien écrit, une lecture agréable.",2018-02-23
+2414,739,465,5,,2023-04-24
+2415,203,1363,5,"Magnifique, une écriture poétique et profonde.",2024-11-11
+2416,312,1144,5,Une œuvre marquante qui laisse une empreinte durable.,2021-07-28
+2417,731,743,3,"Décevant, je m'attendais à mieux.",2024-10-04
+2418,52,66,4,"J'ai adoré les personnages, très bien construits.",2015-06-24
+2419,320,98,5,,2016-12-19
+2420,287,213,5,"Un chef-d'œuvre absolu, à lire absolument.",2019-07-15
+2421,734,516,3,"Une belle découverte, l'auteur a beaucoup de talent.",2023-02-08
+2422,255,446,2,"Magnifique, une écriture poétique et profonde.",2016-09-02
+2423,319,129,3,"Très bien écrit, une lecture agréable.",2023-12-29
+2424,525,1173,5,Trop long à mon goût mais le fond est bon.,2016-10-27
+2425,77,984,5,Une œuvre marquante qui laisse une empreinte durable.,2022-05-24
+2426,752,1490,5,"Magnifique, une écriture poétique et profonde.",2021-11-02
+2427,182,202,1,,2016-07-10
+2428,508,548,4,,2022-12-12
+2429,349,178,5,"Excellent livre, je le recommande vivement !",2023-03-18
+2430,503,1401,4,"Un chef-d'œuvre absolu, à lire absolument.",2016-08-11
+2431,281,1408,2,"J'ai adoré les personnages, très bien construits.",2018-01-29
+2432,601,798,5,Trop long à mon goût mais le fond est bon.,2022-11-03
+2433,660,1297,3,Trop long à mon goût mais le fond est bon.,2016-12-04
+2434,493,189,3,Trop long à mon goût mais le fond est bon.,2018-07-20
+2435,707,1089,5,"Plutôt moyen, rien d'exceptionnel.",2019-11-21
+2436,167,439,4,Très instructif et bien documenté.,2020-01-12
+2437,474,198,4,"Très bien écrit, une lecture agréable.",2016-12-29
+2438,68,1179,4,Une œuvre marquante qui laisse une empreinte durable.,2022-10-14
+2439,672,1240,5,À mettre entre toutes les mains !,2023-05-01
+2440,490,3,4,"Une belle découverte, l'auteur a beaucoup de talent.",2022-02-21
+2441,12,3,2,Impossible à lâcher ! Un vrai page-turner.,2024-08-30
+2442,435,330,5,"Décevant, je m'attendais à mieux.",2019-12-18
+2443,518,595,5,,2015-02-13
+2444,225,1242,4,Très instructif et bien documenté.,2015-06-13
+2445,431,588,4,Une œuvre marquante qui laisse une empreinte durable.,2021-04-29
+2446,315,1223,2,"Plutôt moyen, rien d'exceptionnel.",2019-08-26
+2447,556,1323,5,Impossible à lâcher ! Un vrai page-turner.,2022-04-21
+2448,524,997,4,"Un chef-d'œuvre absolu, à lire absolument.",2022-11-02
+2449,183,16,3,"Décevant, je m'attendais à mieux.",2019-03-29
+2450,567,825,4,,2022-09-06
+2451,212,964,4,À mettre entre toutes les mains !,2023-11-21
+2452,503,1089,4,Passionnant du début à la fin.,2020-06-05
+2453,723,1421,5,"Un chef-d'œuvre absolu, à lire absolument.",2015-01-18
+2454,594,294,3,Histoire intéressante mais style un peu lourd.,2017-04-20
+2455,19,1035,2,,2016-12-10
+2456,355,944,4,"Décevant, je m'attendais à mieux.",2016-11-01
+2457,432,806,3,Très instructif et bien documenté.,2019-03-10
+2458,749,7,4,Passionnant du début à la fin.,2019-02-23
+2459,757,1325,4,Histoire intéressante mais style un peu lourd.,2023-08-21
+2460,584,309,4,"Décevant, je m'attendais à mieux.",2016-08-18
+2461,674,519,4,"Un chef-d'œuvre absolu, à lire absolument.",2021-03-25
+2462,156,1394,5,,2015-10-15
+2463,63,101,2,Très instructif et bien documenté.,2024-06-24
+2464,734,1082,4,"Très bien écrit, une lecture agréable.",2022-01-20
+2465,471,1342,4,Une œuvre marquante qui laisse une empreinte durable.,2019-05-13
+2466,628,980,4,Très instructif et bien documenté.,2023-10-06
+2467,656,459,5,"Un chef-d'œuvre absolu, à lire absolument.",2017-10-03
+2468,518,401,5,Une œuvre marquante qui laisse une empreinte durable.,2019-10-26
+2469,568,1050,3,Trop long à mon goût mais le fond est bon.,2020-11-08
+2470,595,1085,2,"Une belle découverte, l'auteur a beaucoup de talent.",2017-05-11
+2471,571,1475,4,"J'ai adoré les personnages, très bien construits.",2019-04-01
+2472,357,370,5,"Excellent livre, je le recommande vivement !",2020-07-04
+2473,651,1236,5,"Un chef-d'œuvre absolu, à lire absolument.",2020-05-19
+2474,557,1005,3,"Décevant, je m'attendais à mieux.",2016-04-11
+2475,594,1237,4,"Plutôt moyen, rien d'exceptionnel.",2017-11-13
+2476,612,828,1,,2017-05-04
+2477,297,362,4,Impossible à lâcher ! Un vrai page-turner.,2023-02-16
+2478,360,118,4,À mettre entre toutes les mains !,2016-09-23
+2479,419,1358,4,,2015-12-28
+2480,58,921,4,"Une belle découverte, l'auteur a beaucoup de talent.",2024-01-17
+2481,793,1103,5,"Magnifique, une écriture poétique et profonde.",2022-12-26
+2482,235,1437,4,,2015-10-04
+2483,624,93,4,Histoire intéressante mais style un peu lourd.,2019-10-29
+2484,514,1176,5,"Excellent livre, je le recommande vivement !",2019-01-20
+2485,221,1418,4,,2019-10-05
+2486,162,525,2,,2022-12-14
+2487,242,495,3,À mettre entre toutes les mains !,2020-04-18
+2488,511,385,4,,2021-01-06
+2489,281,1241,2,Trop long à mon goût mais le fond est bon.,2023-06-17
+2490,403,167,3,"Excellent livre, je le recommande vivement !",2019-06-28
