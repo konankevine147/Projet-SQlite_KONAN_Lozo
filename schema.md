@@ -1,19 +1,9 @@
 ```mermaid
-
 erDiagram
     bibliotheque {
         int id_biblio PK
         string nombiblio
-        string emailbiblio
-    }
-    livre {
-        int id_livre PK
-        int id_editeur FK
-        string titrelivre
-        int datepublication
-        int codebarre
-        string resume
-        string categorie
+        string emailbiblio 
     }
     editeur {
         int id_editeur PK
@@ -22,12 +12,30 @@ erDiagram
         string ville
         string siteweb
     }
+    livre {
+        int id_livre PK
+        int id_editeur FK
+        string titrelivre
+        int datepublication
+        int codebarre 
+        string resume
+        string categorie
+    }
     auteur {
         int id_auteur PK
-        int id_livre FK
         string nomauteur
         string prenomauteur
         string nationaliteauteur
+    }
+    auteur_livre {
+        int id_auteur FK
+        int id_livre FK
+    }
+    exemplaire {
+        int id_exemplaire PK
+        int id_livre FK
+        int id_biblio FK
+        string etat
     }
     client {
         int id_client PK
@@ -37,12 +45,12 @@ erDiagram
         string adresseclient
         int telephoneclient
         date dateinscription
+		int actif
     }
     emprunt {
         int id_emprunt PK
         int id_client FK
-        int id_livre FK
-        int id_biblio FK
+        int id_exemplaire FK
         date dateemprunt
         date dateretourprevue
         date dateretourreelle
@@ -56,12 +64,14 @@ erDiagram
         date dateavis
     }
 
-    editeur ||--o{ livre : "edite"
-    auteur }o--|| livre : "ecrit"
-    client ||--o{ emprunt : "effectue"
-    livre ||--o{ emprunt : "concerne"
-    bibliotheque ||--o{ emprunt : "gere"
-    client ||--o{ avis : "redige"
-    livre ||--o{ avis : "recoit"
-
+    editeur      ||--o{ livre        : "edite"
+    auteur       }o--o{ livre        : "écrit"
+    auteur_livre }o--|| auteur        : "lie"
+    auteur_livre }o--|| livre         : "lie"
+    livre        ||--o{ exemplaire   : "possede"
+    bibliotheque ||--o{ exemplaire   : "detient"
+    exemplaire   ||--o{ emprunt      : "fait objet de"
+    client       ||--o{ emprunt      : "effectue"
+    client       ||--o{ avis         : "redige"
+    livre        ||--o{ avis         : "recoit"
 ```
